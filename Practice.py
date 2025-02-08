@@ -23,5 +23,5 @@ def local():
     x[1] = 42
 
 print(x)
-local() #This now changes the x variable in the global scope and can be seen when printing x below
+local() #This now changes the x variable in the global scope and can be seen when printing x below.
 print(x) 
