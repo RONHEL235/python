@@ -95,3 +95,8 @@ int(False) #This will return 0
 bool(1) #This will return True
 bool(0) #This will return False
 bool(-4) #This will return True 
+
+print(not False) #This will return True
+print(not True) #This will return False
+print(True or False) #This will return True
+print(True and False) #This will return False
