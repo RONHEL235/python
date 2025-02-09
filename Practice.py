@@ -74,3 +74,5 @@ a = 14
 b = 3
 print(a / b) #This will return a float
 print(a // b) #This will return an integer
+
+print(a % b) #This will return the remainder of the division
