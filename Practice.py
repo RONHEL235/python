@@ -100,3 +100,7 @@ print(not False) #This will return True
 print(not True) #This will return False
 print(True or False) #This will return True
 print(True and False) #This will return False
+
+#1 = True and 0 = False
+print(1 + False) #This will return 1
+print(1 + True) #This will return 2
