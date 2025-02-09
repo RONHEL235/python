@@ -87,3 +87,7 @@ print(-a // b) # integer div., result not the opposite of previous
 #Underscores
 n = 1_024
 print(n)
+
+#Booleans
+int(True) #This will return 1
+int(False) #This will return 0
