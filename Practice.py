@@ -30,7 +30,7 @@ print(x)"""
 
 #defining a class called Bike
 
-class Bike:
+"""class Bike:
 
     def __init__(self, colour, frame_material):
         self.colour = colour
@@ -40,7 +40,7 @@ class Bike:
         print("Braking")
 
 red_bike = Bike ("Red", "Carbon fiber")
-blue_bike = Bike("Blue", "Steel") 
+blue_bike = Bike("Blue", "Steel") """
 
 """
 The Zen of Python, by Tim Peters
@@ -65,3 +65,12 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.        
 Namespaces are one honking great idea -- let's do more of those! 
 """
+
+# Sunday [21:20]
+# 09 February 2025
+
+#Numbers and Integers
+a = 14 
+b = 3
+print(a / b) #This will return a float
+print(a // b) #This will return an integer
