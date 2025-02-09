@@ -104,3 +104,6 @@ print(True and False) #This will return False
 #1 = True and 0 = False
 print(1 + False) #This will return 1
 print(1 + True) #This will return 2
+
+#Comlex Numbers
+a = 1 + 2j
