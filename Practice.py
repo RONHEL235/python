@@ -76,3 +76,5 @@ print(a / b) #This will return a float
 print(a // b) #This will return an integer
 
 print(a % b) #This will return the remainder of the division
+
+print(a ** b ) #This will return a to the power of b
