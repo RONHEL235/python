@@ -83,3 +83,7 @@ print(a / b) # true division
 print(a // b) # integer division, truncation returns 1
 print(-a / b) # true division again, result is opposite of previous
 print(-a // b) # integer div., result not the opposite of previous
+
+#Underscores
+n = 1_024
+print(n)
