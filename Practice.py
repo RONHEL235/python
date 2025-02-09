@@ -91,3 +91,7 @@ print(n)
 #Booleans
 int(True) #This will return 1
 int(False) #This will return 0
+
+bool(1) #This will return True
+bool(0) #This will return False
+bool(-4) #This will return True 
