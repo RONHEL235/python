@@ -78,3 +78,8 @@ print(a // b) #This will return an integer
 print(a % b) #This will return the remainder of the division
 
 print(a ** b ) #This will return a to the power of b
+
+print(a / b) # true division
+print(a // b) # integer division, truncation returns 1
+print(-a / b) # true division again, result is opposite of previous
+print(-a // b) # integer div., result not the opposite of previous
