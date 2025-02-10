@@ -107,3 +107,8 @@ print(1 + True) #This will return 2
 
 #Comlex Numbers
 a = 1 + 2j
+
+#Difference between complex numbers and real numbers
+c = 3.14 + 2.75j
+print(c.imag)
+print(c.real) 
