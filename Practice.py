@@ -110,5 +110,10 @@ a = 1 + 2j
 
 #Difference between complex numbers and real numbers
 c = 3.14 + 2.75j
+a = -2.5 - 6j
 print(c.imag)
-print(c.real) 
+print(c.real)
+
+#Conjugate 
+print(c.conjugate())
+print(a.conjugate())
