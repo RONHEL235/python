@@ -119,12 +119,15 @@ print(c.conjugate())
 print(a.conjugate())"""
 
 #Fractions and decimals 
-from fractions import Fraction
+"""from fractions import Fraction
 
 f = Fraction(10,6)
 print(f)
 print(f.numerator)
-print(f.denominator)
+print(f.denominator)"""
 
 """Apparently the amount of data stored for numbers is far grater for that which is stored for fractions."""
 
+#Setting the precision of a decimal number
+from decimal import Decimal as D
+print(D("3.14"))
