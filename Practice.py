@@ -120,4 +120,9 @@ print(a.conjugate())"""
 
 #Fractions and decimals 
 from fractions import Fraction
-print(Fraction(10,6))
+
+f = Fraction(10,6)
+print(f)
+print(f.numerator)
+print(f.denominator)
+
