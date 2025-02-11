@@ -70,7 +70,7 @@ Namespaces are one honking great idea -- let's do more of those!
 # 09 February 2025
 
 #Numbers and Integers
-a = 14 
+"""a = 14 
 b = 3
 print(a / b) #This will return a float
 print(a // b) #This will return an integer
@@ -116,4 +116,8 @@ print(c.real)
 
 #Conjugate 
 print(c.conjugate())
-print(a.conjugate())
+print(a.conjugate())"""
+
+#Fractions and decimals 
+from fractions import Fractions
+print(Fraction(5,3))
