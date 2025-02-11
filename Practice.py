@@ -129,5 +129,7 @@ print(f.denominator)"""
 """Apparently the amount of data stored for numbers is far grater for that which is stored for fractions."""
 
 #Setting the precision of a decimal number
-from decimal import Decimal as D
-print(D("3.14"))
+"""from decimal import Decimal as D
+print(D("3.14"))"""
+
+print (D(3.5) + D(3.8) +D(6.3))
