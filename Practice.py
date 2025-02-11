@@ -119,5 +119,5 @@ print(c.conjugate())
 print(a.conjugate())"""
 
 #Fractions and decimals 
-from fractions import Fractions
-print(Fraction(5,3))
+from fractions import Fraction
+print(Fraction(10,6))
