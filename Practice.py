@@ -126,3 +126,5 @@ print(f)
 print(f.numerator)
 print(f.denominator)
 
+"""Apparently the amount of data stored for numbers is far grater for that which is stored for fractions."""
+
