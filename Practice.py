@@ -164,5 +164,7 @@ print(f.denominator)"""
 """string = "This is a string"
 print(type(string))"""
 
+string = "This is a string"
+
 encoded_string = string.encode("utf-8")
-print(encoded_string)
+print(encoded_string) #The result was going to be a byte object
