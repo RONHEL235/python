@@ -133,4 +133,24 @@ from decimal import Decimal as D
 #print(D("3.14"))
 
 #print(D("3.5") - D("3.8") + D("6.3"))
+
+#Wednesday [18:18]
+# 12 February 2025
+
 print(D("1.1").as_integer_ratio()) #This will return the ratio of the decimal number 1.1
+
+print(D(1.1).as_integer_ratio()) #This will return the ratio of the decimal number 1.1
+#This is soo cool.
+
+#We have 4 ways of strings in python 
+#1. Single quotes
+str1 = 'This a string'
+#2. Double quotes
+str2 = "This too is a string"
+#3. Triple single quotes
+str3 = '''This tooo is also a string'''
+#4. Triple double quotes
+str4 = """This tooooo is a string"""
+
+
+
