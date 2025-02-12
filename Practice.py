@@ -129,7 +129,7 @@ print(f.denominator)"""
 """Apparently the amount of data stored for numbers is far grater for that which is stored for fractions."""
 
 #Setting the precision of a decimal number
-from decimal import Decimal as D
+#from decimal import Decimal as D
 #print(D("3.14"))
 
 #print(D("3.5") - D("3.8") + D("6.3"))
@@ -137,25 +137,32 @@ from decimal import Decimal as D
 #Wednesday [18:18]
 # 12 February 2025
 
-print(D("1.1").as_integer_ratio()) #This will return the ratio of the decimal number 1.1
+#print(D("1.1").as_integer_ratio()) #This will return the ratio of the decimal number 1.1
 
-print(D(1.1).as_integer_ratio()) #This will return the ratio of the decimal number 1.1
+#print(D(1.1).as_integer_ratio()) #This will return the ratio of the decimal number 1.1
 #This is soo cool.
 
 #We have 4 ways of strings in python 
 #1. Single quotes
-str1 = 'This a string'
+#str1 = 'This a string'
 #2. Double quotes
-str2 = "This too is a string"
+#str2 = "This too is a string"
 #3. Triple single quotes
-str3 = '''This tooo is also a string'''
+#str3 = '''This tooo is also a string'''
 #4. Triple double quotes
-str4 = """This tooooo is a string"""
+#str4 = """This tooooo is a string"""
 
 #The firth way to create a string is 
-str5 = 'This too\nis '
-print (str5)
+#str5 = 'This too\nis '
+#print (str5)
 
 #Let us check the length of my string
-print(len(str5)) 
+#print(len(str5)) 
 #It is 12 because it counts the \n and space as unique characters.
+
+#Encoding and decoding strings
+"""string = "This is a string"
+print(type(string))"""
+
+encoded_string = string.encode("utf-8")
+print(encoded_string)
