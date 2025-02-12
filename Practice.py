@@ -153,8 +153,9 @@ str3 = '''This tooo is also a string'''
 str4 = """This tooooo is a string"""
 
 #The firth way to create a string is 
-str5 = 'This too\nis a mulltiline string\nthat is built\nusing single quotes\nyes'
+str5 = 'This too\nis '
 print (str5)
 
-
-
+#Let us check the length of my string
+print(len(str5)) 
+#It is 12 because it counts the \n and space as unique characters.
