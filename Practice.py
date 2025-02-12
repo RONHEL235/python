@@ -133,3 +133,4 @@ from decimal import Decimal as D
 #print(D("3.14"))
 
 #print(D("3.5") - D("3.8") + D("6.3"))
+print(D("1.1").as_integer_ratio()) #This will return the ratio of the decimal number 1.1
