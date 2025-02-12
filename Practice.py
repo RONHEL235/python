@@ -168,3 +168,6 @@ string = "This is a string"
 
 encoded_string = string.encode("utf-8")
 print(encoded_string) #The result was going to be a byte object
+
+#Decoding the string
+decoded_string = encoded_string.decode("utf-8")
