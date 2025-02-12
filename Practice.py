@@ -152,5 +152,9 @@ str3 = '''This tooo is also a string'''
 #4. Triple double quotes
 str4 = """This tooooo is a string"""
 
+#The firth way to create a string is 
+str5 = 'This too\nis a mulltiline string\nthat is built\nusing single quotes\nyes'
+print (str5)
+
 
 
