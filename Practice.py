@@ -183,3 +183,7 @@ encoded_s = s.encode("utf-8")
 print(encoded_s)
 
 print(type(encoded_s)) #It is now in Bytes
+
+####Let's decode this one now 
+decoded_s = encoded_s.decode("utf-8")
+print(decoded_s)        
