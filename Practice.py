@@ -195,6 +195,8 @@ print(decoded_s)"""
 print(type(bytes_obj))"""
 #Indexing and slicing strings 
 a_string = "There is no time left"
-print(a_string[0])
+"""print(a_string[0])
 print(a_string[:4])
 print(a_string[4:])
+print(a_string[4:10])""" #Stop at 10 but do not give me 10
+print(a_string[3:10:2])
