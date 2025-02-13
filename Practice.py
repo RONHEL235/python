@@ -176,7 +176,7 @@ decoded_string = encoded_string.decode("utf-8")"""
 # 13 February 2025
 
 #Continuing with encoding and decoding strings
-s = "This is s ÑÖÜc0de"
+"""s = "This is s ÑÖÜc0de"
 print(type(s)) #This is a type string  
 
 encoded_s = s.encode("utf-8")
@@ -186,10 +186,15 @@ print(type(encoded_s)) #It is now in Bytes
 
 ####Let's decode this one now 
 decoded_s = encoded_s.decode("utf-8")
-print(decoded_s)
+print(decoded_s)"""
 
 """Usually the encoded string is given in bytes and you can see it by it starting with a b'This a string'. That is how you can usually spot it."""
 
 #Example 
-bytes_obj = b"A bytes object"
-print(type(bytes_obj))
+"""bytes_obj = b"A bytes object"
+print(type(bytes_obj))"""
+#Indexing and slicing strings 
+a_string = "There is no time left"
+print(a_string[0])
+print(a_string[:4])
+print(a_string[4:])
