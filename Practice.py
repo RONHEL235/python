@@ -164,10 +164,22 @@ print(f.denominator)"""
 """string = "This is a string"
 print(type(string))"""
 
-string = "This is a string"
+"""string = "This is a string"
 
 encoded_string = string.encode("utf-8")
 print(encoded_string) #The result was going to be a byte object
 
 #Decoding the string
-decoded_string = encoded_string.decode("utf-8")
+decoded_string = encoded_string.decode("utf-8")"""
+
+#Thursday [19:03]
+# 13 February 2025
+
+#Continuing with encoding and decoding strings
+s = "This is s ÑÖÜc0de"
+print(type(s)) #This is a type string  
+
+encoded_s = s.encode("utf-8")
+print(encoded_s)
+
+print(type(encoded_s)) #It is now in Bytes
