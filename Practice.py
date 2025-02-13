@@ -189,3 +189,7 @@ decoded_s = encoded_s.decode("utf-8")
 print(decoded_s)
 
 """Usually the encoded string is given in bytes and you can see it by it starting with a b'This a string'. That is how you can usually spot it."""
+
+#Example 
+bytes_obj = b"A bytes object"
+print(type(bytes_obj))
