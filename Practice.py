@@ -199,4 +199,4 @@ a_string = "There is no time left"
 print(a_string[:4])
 print(a_string[4:])
 print(a_string[4:10])""" #Stop at 10 but do not give me 10
-print(a_string[3:10:2])
+print(a_string[3:10:2]) #Basically tell it what multiples to go in
