@@ -207,6 +207,13 @@ print(a_string[4:10])""" #Stop at 10 but do not give me 10
 #Alone
 
 #More string manipulation 
-a_string = "Ronee Helepi is the top 10 achiever for 2025"
+"""a_string = "Ronee Helepi is the top 10 achiever for 2025"
 new_a_string = a_string[::2]
-print(new_a_string)
+print(new_a_string)"""
+
+#String formatting 
+a_string = "Hello %s!"
+print(a_string % "Fabrizio") 
+
+#I am guessing the % is the connector of the two
+#The "s" is the string itself
