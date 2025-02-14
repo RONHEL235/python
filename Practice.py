@@ -195,8 +195,18 @@ print(decoded_s)"""
 print(type(bytes_obj))"""
 #Indexing and slicing strings 
 a_string = "There is no time left"
-"""print(a_string[0])
+"""
+print(a_string[0])
 print(a_string[:4])
 print(a_string[4:])
 print(a_string[4:10])""" #Stop at 10 but do not give me 10
-print(a_string[3:10:2]) #Basically tell it what multiples to go in
+#print(a_string[3:10:2]) #Basically tell it what multiples to go in
+
+#Friday [19:34]
+#14 February 2025
+#Alone
+
+#More string manipulation 
+a_string = "Ronee Helepi is the top 10 achiever for 2025"
+new_a_string = a_string[::2]
+print(new_a_string)
