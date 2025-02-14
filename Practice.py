@@ -212,8 +212,20 @@ new_a_string = a_string[::2]
 print(new_a_string)"""
 
 #String formatting 
+"""
 a_string = "Hello %s!"
 print(a_string % "Fabrizio") 
+"""
 
 #I am guessing the % is the connector of the two
 #The "s" is the string itself
+
+#Example 2: Using the string as a template
+#You have a string that can be set as default and in that string can be spaces that can be left for modification
+
+the_first_string = "The name %s."
+the_second_string = "is so %s."
+
+the_final_string = the_first_string % "Ronee",the_second_string % "Unique"
+
+print(the_final_string)
