@@ -233,3 +233,8 @@ print(the_final_string)"""
 the_new_string = "The new string {} {}"
 the_new_new_string = the_new_string.format("is", "good")
 print(the_new_new_string)
+
+#Saturday [20:07]
+#15 February 2025
+
+Print("The mind is the most powerful creative tool in the universe")
