@@ -237,4 +237,4 @@ print(the_new_new_string)
 #Saturday [20:07]
 #15 February 2025
 
-Print("The mind is the most powerful creative tool in the universe")
+print("The mind is the most powerful creative tool in the universe")
