@@ -230,11 +230,18 @@ the_final_string = the_first_string % "Ronee",the_second_string % "Unique"
 
 print(the_final_string)"""
 
-the_new_string = "The new string {} {}"
+"""the_new_string = "The new string {} {}"
 the_new_new_string = the_new_string.format("is", "good")
 print(the_new_new_string)
-
+"""
 #Saturday [20:07]
 #15 February 2025
 
-print("The mind is the most powerful creative tool in the universe")
+"""print("The mind is the most powerful creative tool in the universe")
+"""
+#Monday [22:15]
+# 17 February 2025
+
+name = "Fab"
+age = 42
+print(f"Hello! My name is {name} and I'm {age}")
