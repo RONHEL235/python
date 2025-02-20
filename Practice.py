@@ -269,4 +269,16 @@ elif income < 100000:
  tax_coefficient = 0.35 #3
 else:
  tax_coefficient = 0.45 #4
-print('I will pay:', income * tax_coefficient, 'in taxes')  
+print('I will pay:', income * tax_coefficient, 'in taxes') 
+
+# elif
+# errorsalert.py
+alert_system = 'console' # other value can be 'email'
+error_severity = 'critical' # other values: 'medium' or 'low'
+error_message = 'OMG! Something terrible happened!'
+if alert_system == 'console':
+ print(error_message) #1
+elif alert_system == 'email':
+ if error_severity == 'critical':
+    send_email('admin@example.com', error_message) #2
+elif error_severity == 'medium':
