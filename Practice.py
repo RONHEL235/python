@@ -310,3 +310,11 @@ def func(b, c, a):
     print(a, c, b)
 
 func(1, 2, 3)
+
+#Changing a mutable affects the caller
+# key.points.mutable.py
+x = [1, 2, 3]
+def func(x):
+ x[1] = 42 # this affects the caller!
+func(x)
+print(x) # prints: [1, 42, 3]
