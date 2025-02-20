@@ -242,6 +242,17 @@ print(the_new_new_string)
 #Monday [22:15]
 # 17 February 2025
 
-name = "Fab"
+"""name = "Fab"
 age = 42
-print(f"Hello! My name is {name} and I'm {age}")
+print(f"Hello! My name is {name} and I'm {age}")"""
+
+#Thursday [08:40]
+#20 February 2025
+
+#Conditional Programming 
+# conditional.2.py
+late = False
+if late:
+ print('I need to call my manager!') #1
+else:
+ print('no need to call my manager...') #2
