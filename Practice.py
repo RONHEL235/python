@@ -260,7 +260,7 @@ else:
 #The else-if
 
 # taxes.py
-income = 15000
+"""income = 15000
 if income < 10000:
  tax_coefficient = 0.0 #1
 elif income < 30000:
@@ -270,10 +270,10 @@ elif income < 100000:
 else:
  tax_coefficient = 0.45 #4
 print('I will pay:', income * tax_coefficient, 'in taxes') 
-
+"""
 # elif
 # errorsalert.py
-alert_system = 'console' # other value can be 'email'
+"""alert_system = 'console' # other value can be 'email'
 error_severity = 'critical' # other values: 'medium' or 'low'
 error_message = 'OMG! Something terrible happened!'
 if alert_system == 'console':
@@ -282,25 +282,31 @@ elif alert_system == 'email':
  if error_severity == 'critical':
     send_email('admin@example.com', error_message) #2
 elif error_severity == 'medium':
-
+"""
 #While Loop 
 # binary.py
-n = 39
+"""n = 39
 remainders = []
 while n > 0:
  remainder = n % 2 # remainder of division by 2
  remainders.insert(0, remainder) # we keep track of remainders
  n //= 2 # we divide n by 2
 print(remainders)
-
+"""
 
 #Second example
 # multiple.sequences.while.py
-people = ['Conrad', 'Deepak', 'Heinrich', 'Tom']
+"""people = ['Conrad', 'Deepak', 'Heinrich', 'Tom']
 ages = [29, 30, 34, 36]
 position = 0
 while position < len(people):
  person = people[position]
  age = ages[position]
  print(person, age)
- position += 1
+ position += 1"""
+
+#Positional arguments 
+def func(b, c, a):
+    print(a, c, b)
+
+func(1, 2, 3)
