@@ -282,3 +282,13 @@ elif alert_system == 'email':
  if error_severity == 'critical':
     send_email('admin@example.com', error_message) #2
 elif error_severity == 'medium':
+
+#While Loop 
+# binary.py
+n = 39
+remainders = []
+while n > 0:
+ remainder = n % 2 # remainder of division by 2
+ remainders.insert(0, remainder) # we keep track of remainders
+ n //= 2 # we divide n by 2
+print(remainders)
