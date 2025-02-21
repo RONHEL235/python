@@ -450,3 +450,10 @@ def scope_function ():
 test = 100 #Global scope
 scope_function()
 print ("Global:", test)
+
+#Parsing arguments
+x = 100
+def func (y):
+    print(y)
+
+func(x)    
