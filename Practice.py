@@ -320,8 +320,10 @@ func(x)
 print(x) # prints: [1, 42, 3]
 """
 
+#Friday [18:19]
+#21 February 2025
 
-class BudgetCalculator:
+"""class BudgetCalculator:
     def __init__(self, user_code, gross_income):
         self.user_code = user_code
         self.gross_income = gross_income
@@ -406,3 +408,20 @@ def main():
 
 if __name__ == "__main__":
     main()
+"""
+
+#Diving into functions and how they work
+
+def do_report (data_source):
+    #Fetching and preparing data.
+    data = fetch_data (data_source)
+    parsed_data = parse_data (data)
+    filtered_data = filter_data (parsed_data)
+    polished_data = polish_data (filtered_data)
+
+    #Running algorithms on the data
+    final_data = analyse (polished_data)
+
+    #Create and return report
+    report = Report (final_data)
+    return report
