@@ -429,7 +429,7 @@ if __name__ == "__main__":
 #Matrix multiplication
 # matrix.multiplication.func.py
 # this function could also be defined in another module
-def matrix_mul(a, b):
+"""def matrix_mul(a, b):
     return [[sum(i * j for i, j in zip(r, c)) for c in zip(*b)]
     for r in a]
 
@@ -437,23 +437,32 @@ def matrix_mul(a, b):
 a = [[1, 2], [3, 4]]
 b = [[5, 1], [2, 1]]
 c = matrix_mul(a, b)
-print(c)
+print(c)"""
 
 #Functions and scoping 
 "They still follow the same scoping principles"
 
 #Scoping example
-def scope_function ():
+"""def scope_function ():
     test = 99 #Local scope
     print("Scope Function:", test)
 
 test = 100 #Global scope
 scope_function()
 print ("Global:", test)
-
+"""
 #Parsing arguments
-x = 100
+"""x = 100
 def func (y):
     print(y)
 
-func(x)    
+func(x)"""    
+
+#Lets check out if I can do it 
+x = 3
+def printing_x ():
+    x = 7
+    print(x) 
+
+print (x)
+printing_x ()
