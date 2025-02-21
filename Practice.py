@@ -412,7 +412,7 @@ if __name__ == "__main__":
 
 #Diving into functions and how they work
 
-def do_report (data_source):
+"""def do_report (data_source):
     #Fetching and preparing data.
     data = fetch_data (data_source)
     parsed_data = parse_data (data)
@@ -425,3 +425,17 @@ def do_report (data_source):
     #Create and return report
     report = Report (final_data)
     return report
+"""
+#Matrix multiplication
+# matrix.multiplication.func.py
+# this function could also be defined in another module
+def matrix_mul(a, b):
+    return [[sum(i * j for i, j in zip(r, c)) for c in zip(*b)]
+    for r in a]
+
+
+a = [[1, 2], [3, 4]]
+b = [[5, 1], [2, 1]]
+c = matrix_mul(a, b)
+print(c)
+ 
