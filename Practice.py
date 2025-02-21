@@ -438,4 +438,7 @@ a = [[1, 2], [3, 4]]
 b = [[5, 1], [2, 1]]
 c = matrix_mul(a, b)
 print(c)
+
+#Functions and scoping 
+"They still follow the same scoping principles"
  
