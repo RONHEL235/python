@@ -441,4 +441,12 @@ print(c)
 
 #Functions and scoping 
 "They still follow the same scoping principles"
- 
+
+#Scoping example
+def scope_function ():
+    test = 99 #Local scope
+    print("Scope Function:", test)
+
+test = 100 #Global scope
+scope_function()
+print ("Global:", test)
