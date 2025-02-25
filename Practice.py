@@ -482,3 +482,6 @@ a_dictionary = {"a": 3, "b": 4}
 print(a_dictionary["a"])
 
 #If there is an error, the python code with show the error message and exit immediately. 
+
+#Okay now lets raise an error
+raise NotImplementedError ("This is an Error Bruv")
