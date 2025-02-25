@@ -478,10 +478,22 @@ print(next(gen))
 print(next(gen))
 print(next(gen))
 """
-a_dictionary = {"a": 3, "b": 4}
+"""a_dictionary = {"a": 3, "b": 4}
 print(a_dictionary["a"])
-
+"""
 #If there is an error, the python code with show the error message and exit immediately. 
 
 #Okay now lets raise an error
-raise NotImplementedError ("This is an Error Bruv")
+"""raise NotImplementedError ("This is an Error Bruv")"""
+
+#Okay now let me define my own Exceptions 
+def squareroot(number):
+    if number < 0:
+        raise ValueError ("No negative numbers please")
+    return number ** .5
+
+def quadratic(a, b, c):
+    d = b ** 2- 4 * a * c
+    return ((-b - squareroot(d)) / (2 * a), (-b - squareroot(d)) / (2 * a))
+
+quadratic(1, 0, 1)
