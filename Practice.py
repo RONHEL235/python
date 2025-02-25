@@ -487,7 +487,7 @@ print(a_dictionary["a"])
 """raise NotImplementedError ("This is an Error Bruv")"""
 
 #Okay now let me define my own Exceptions 
-def squareroot(number):
+"""def squareroot(number):
     if number < 0:
         raise ValueError ("No negative numbers please")
     return number ** .5
@@ -496,4 +496,11 @@ def quadratic(a, b, c):
     d = b ** 2- 4 * a * c
     return ((-b - squareroot(d)) / (2 * a), (-b - squareroot(d)) / (2 * a))
 
-quadratic(1, 0, 1)
+quadratic(1, 0, 1)"""
+
+#There are 4 clauses to be considered when dealing exceptions
+
+#try
+#except
+#else
+#finally   
