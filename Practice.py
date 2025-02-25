@@ -480,3 +480,5 @@ print(next(gen))
 """
 a_dictionary = {"a": 3, "b": 4}
 print(a_dictionary["a"])
+
+#If there is an error, the python code with show the error message and exit immediately. 
