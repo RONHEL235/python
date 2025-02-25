@@ -472,8 +472,11 @@ printing_x ()"""
 
 #Exception - An error detected during execution.
 
-gen = (i for i in range(3))
+"""gen = (i for i in range(3))
 print(next(gen))
 print(next(gen))
 print(next(gen))
 print(next(gen))
+"""
+a_dictionary = {"a": 3, "b": 4}
+print(a_dictionary["a"])
