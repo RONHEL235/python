@@ -459,10 +459,21 @@ def func (y):
 func(x)"""    
 
 #Lets check out if I can do it 
-x = 3
+"""x = 3
 def printing_x ():
     x = 7
     print(x) 
 
 print (x)
-printing_x ()
+printing_x ()"""
+
+#Tuesday [19:59]
+#Error Handling
+
+#Exception - An error detected during execution.
+
+gen = (i for i in range(3))
+print(next(gen))
+print(next(gen))
+print(next(gen))
+print(next(gen))
