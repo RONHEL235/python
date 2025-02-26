@@ -505,13 +505,13 @@ quadratic(1, 0, 1)"""
 #else
 #finally  
  
-def try_syntax(numerator, denominator):
+"""def try_syntax(numerator, denominator):
     try: 
         print(f'In the try block: {numerator} {denominator}')
         result = numerator / denominator
     
-    except ZeroDivisionError as zde:
-        print(zde)
+    except ZeroDivisionError as error:
+        print(error)
     
     else:
         print('The result is:', result)
@@ -519,4 +519,15 @@ def try_syntax(numerator, denominator):
     finally:
         print('Exiting')
 print(try_syntax(12, 4))
-print(try_syntax(11, 0))
+print(try_syntax(11, 0))"""
+
+#Wednesday [18:43]
+#26 February 2025
+
+#Exceptions: try, except, else, finally
+
+#[23:12]
+values = (1, 2)
+
+try: q, r = divmod() 
+#Hi divmod is a method in python that takes two numbers and return a tuple of containing two values: the quotient and remainder of their division. 
