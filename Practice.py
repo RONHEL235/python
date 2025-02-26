@@ -540,5 +540,13 @@ Remainder = result[1]
 print("The Quotient is:", Quotient)
 print("The Remainder is:", Remainder)
 """
-Quotient, Remainder = divmod (10, 3)
-print(f"The Quotient is {Quotient} and the Remainder is {Remainder}") 
+"""Quotient, Remainder = divmod (10, 3)
+print(f"The Quotient is {Quotient} and the Remainder is {Remainder}") """
+
+#Lets continue with the key-word-arguments
+def example_function(**kwargs):
+    for key, value in kwargs.items():
+        print(f"{key}: {value}")
+
+
+example_function(name="Ronee", surname="Helepi" age=27, positon="Senior Software Engineer", company="BET Software Cape Town")
