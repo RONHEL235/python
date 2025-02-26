@@ -527,7 +527,15 @@ print(try_syntax(11, 0))"""
 #Exceptions: try, except, else, finally
 
 #[23:12]
-values = (1, 2)
+"""values = (1, 2)
 
 try: q, r = divmod() 
-#Hi divmod is a method in python that takes two numbers and return a tuple of containing two values: the quotient and remainder of their division. 
+"""#Hi divmod is a method in python that takes two numbers and return a tuple of containing two values: the quotient and remainder of their division. 
+
+result = divmod (8, 4)
+
+Quotient = result[0]
+Remainder = result[1]
+
+print("The Quotient is:", Quotient)
+print("The Remainder is:", Remainder)
