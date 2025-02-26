@@ -550,3 +550,10 @@ def example_function(**kwargs):
 
 
 example_function(name="Ronee", surname="Helepi", age=27, positon="Senior Software Engineer", company="BET Software Cape Town")
+
+def greet(name, age):
+    print(f"Hello, {name}! You are {age} years old.")
+
+    person = {"name": "Bob", "age": 27}
+
+    greet(**person)
