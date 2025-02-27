@@ -583,8 +583,3 @@ class BudgetCalculating:
         }
         self.total_expenses = 0.0
         self.net_income = 0.0
-
-.
-.
-.
-.
