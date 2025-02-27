@@ -581,3 +581,7 @@ class BudgetCalculating:
             'Groceries': 0.0,
             'Communication': 0.0
         }
+        self.total_expenses = 0.0
+        self.net_income = 0.0
+
+.
