@@ -585,3 +585,4 @@ class BudgetCalculating:
         self.net_income = 0.0
 
 .
+.
