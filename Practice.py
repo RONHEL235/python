@@ -544,7 +544,7 @@ print("The Remainder is:", Remainder)
 print(f"The Quotient is {Quotient} and the Remainder is {Remainder}") """
 
 #Lets continue with the key-word-arguments
-def example_function(**kwargs):
+"""def example_function(**kwargs):
     for key, value in kwargs.items():
         print(f"{key}: {value}")
 
@@ -556,6 +556,16 @@ def greet(name, age):
 
     person = {"name": "Bob", "age": 27}
 
-    greet(**person)
+    greet(**person)"""
 
 #I sleep now
+
+#Thursday [22:36]
+#27 February 2025
+
+#Okay I am creating an app that can will calculate the tax of the person after payday.
+
+#1. The person would probably have to imput the salary
+
+wage = input("How much money are you making?:")
+print(wage)
