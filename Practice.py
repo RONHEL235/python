@@ -567,5 +567,17 @@ def greet(name, age):
 
 #1. The person would probably have to imput the salary
 
-wage = input("How much money are you making?:")
-print(wage)
+class BudgetCalculating:
+    def __init__(self, user_code, gross_income):
+        self.user_code = user_code
+        self.gross_income = gross_income
+        self.tax = 0.0
+        self.after_tax_income = 0.0
+        self.expenses = {
+            "Utilities": 0.0,
+            'Rent': 0.0,
+            'Transport': 0.0,
+            'Health': 0.0,
+            'Groceries': 0.0,
+            'Communication': 0.0
+        }
