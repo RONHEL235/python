@@ -597,3 +597,24 @@ if product < 1000:
     print(f'The product is {product}')
 else:
     print(f'The sum is {addition}')
+
+
+def calculate_product_or_sum(num1, num2):
+    try:
+        product = num1 * num2
+        if product <= 1000:
+            return product
+        else:
+            return num1 + num2
+    except TypeError:
+        return "Error: Please provide valid integer numbers."
+
+# Example usage:
+try:
+    num1 = int(input("Enter first number: "))
+    num2 = int(input("Enter second number: "))
+    result = calculate_product_or_sum(num1, num2)
+    print("Result:", result)
+except ValueError:
+    print("Error: Please enter valid integer numbers.")
+
