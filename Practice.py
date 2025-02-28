@@ -567,7 +567,7 @@ def greet(name, age):
 
 #1. The person would probably have to imput the salary
 
-class BudgetCalculating:
+"""class BudgetCalculating:
     def __init__(self, user_code, gross_income):
         self.user_code = user_code
         self.gross_income = gross_income
@@ -582,4 +582,18 @@ class BudgetCalculating:
             'Communication': 0.0
         }
         self.total_expenses = 0.0
-        self.net_income = 0.0
+        self.net_income = 0.0"""
+
+#Friday[20:21]
+# 28 February 2025
+
+number1 = input('Insert number1:')
+number2 = input('Insert number2:')
+
+product = number1 * number2
+addition = number1 + number2
+
+if product < 1000:
+    print(f'The product is {product}')
+else:
+    print(f'The sum is {addition}')
