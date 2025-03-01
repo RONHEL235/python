@@ -668,14 +668,14 @@ finally:
 
 #Easy
 
-def dissecting_string (string): 
+"""def dissecting_string (string): 
         for char in list(string[::2]):
             return char
 
 string = input("Type an string word")
 characters = dissecting_string (string) 
 print(characters)
-
+"""
 #Exercise 4: Remove first n characters from a string
 #Write a Python code to remove characters from a string from 0 to n and return a new string.
 
