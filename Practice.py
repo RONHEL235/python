@@ -661,5 +661,17 @@ finally:
     print("Code Successfully Executed!")"""
     
 
+#Exercise 3: Print characters present at an even index number
+#Write a Python code to accept a string from the user and display characters present at an even index number.
 
+#For example, str = "PYnative". so your code should display ‘P’, ‘n’, ‘t’, ‘v’.
 
+#Easy
+
+def dissecting_string (string): 
+        for char in list(string[::2]):
+            return char
+
+string = input("Type an string word")
+characters = dissecting_string (string) 
+print(characters)
