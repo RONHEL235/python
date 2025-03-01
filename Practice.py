@@ -711,19 +711,20 @@ finally:
 
 #Write a code to return True if the list’s first and last numbers are the same. If the numbers are different, return False.
 
-def first_and_last (list):
+def first_and_last (numberList):
     try:
-        if list != list:
-            raise ValueError("Error: This needs to be a list.")
+        if not numberList:
+            raise ValueError("Error: This cannot be empty.")
 
-        size = len(list)
         first = list[0]
-        last = list[size-1]
-
+        last = list[-1]
+        
     if first == last:
         return "True"
     else:
         return "False"
 
+except IndexError:
+    
 
 print(first_and_last([18,12,20,30,18]))
