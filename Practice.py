@@ -587,6 +587,9 @@ def greet(name, age):
 #Friday[20:21]
 # 28 February 2025
 
+"""Exercise 1: Calculate the multiplication and sum of two numbers
+Given two integer numbers, write a Python code to return their product only if the product is equal to or lower than 1000. Otherwise, return their sum."""
+
 """number1 = input('Insert number1:')
 number2 = input('Insert number2:')
 
@@ -601,7 +604,7 @@ else:
 
 #Let practice on my own 
 
-def product_and_sum (num1, num2):
+"""def product_and_sum (num1, num2):
     try:
         product = num1 * num2
         if product <= 1000:
@@ -631,13 +634,14 @@ else:
     print("Inputs were valid nad processed correctly")
 
 finally:
-    print("Program execution completed")
+    print("Program execution completed")"""
 
-#Example two
+#Exercise 2: Print the Sum of a Current Number and a Previous number
+#Write a Python code to iterate the first 10 numbers, and in each iteration, print the sum of the current and previous number.
 
 #I need a "for" loop
 
-print("Printing current and previous number sum in range(10)")
+"""print("Printing current and previous number sum in range(10)")
 
 try:
     for i in range(10):
@@ -654,7 +658,7 @@ else:
     print("The are no calculation of type errors.")
     
 finally:
-    print("Code Successfully Executed!")
+    print("Code Successfully Executed!")"""
     
 
 
