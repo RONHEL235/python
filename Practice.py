@@ -608,10 +608,15 @@ def product_and_sum (num1, num2):
             return product
         else:
             return num1 + num2
+
     except TypeError:
         return "Error: Please provide valid integer number."
+
+    else: 
+        print("Calculation completed successfully.")
+
     finally:
-        return "The code was successful"
+        print("The code was successful")
 
 try:
     num1 = int(input("Input number 1:"))
@@ -621,6 +626,12 @@ try:
 
 except ValueError:
     print("Error: Please enter valid integer number.")
+
+else: 
+    print("Inputs were valid nad processed correctly")
+
+finally:
+    print("Program execution completed")
 
 
 
