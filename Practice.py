@@ -685,14 +685,14 @@ print(characters)
 #remove_chars("PYnative", 2) so output must be native. Here, you need to remove the first two characters from a string.
 #Note: n must be less than the length of the string.def remove_chars(word, number):
     
-def remove_chars(word, number):
+"""def remove_chars(word, number):
     try:
         if number < 0 or word > len(word): 
             raise ValueError("Error: Number must be between 0 and the length of the string.")
         return word[number: ]
     except ValueError as e:
         return str(e)
-        
+    
 
 try:
     word = input("Input a string: ")
@@ -704,4 +704,26 @@ except ValueError:
     print("Error: Please enter a valid positive integer within the string length")
 
 finally:
-    print("Program execution completed") 
+    print("Program execution completed") """
+
+
+#Exercise 5: Check if the first and last numbers of a list are the same
+
+#Write a code to return True if the list’s first and last numbers are the same. If the numbers are different, return False.
+
+def first_and_last (list):
+    try:
+        if list != list:
+            raise ValueError("Error: This needs to be a list.")
+
+        size = len(list)
+        first = list[0]
+        last = list[size-1]
+
+    if first == last:
+        return "True"
+    else:
+        return "False"
+
+
+print(first_and_last([18,12,20,30,18]))
