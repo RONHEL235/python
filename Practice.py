@@ -633,5 +633,29 @@ else:
 finally:
     print("Program execution completed")
 
+#Example two
+
+#I need a "for" loop
+
+print("Printing current and previous number sum in range(10)")
+
+try:
+    for i in range(10):
+        previous_number = 0
+        
+        print(f'Current Number {i} previous_number {previous_number} Sum {i + previous_number}')
+
+        previous_number = i
+        
+except SyntaxError:
+    print("Please fix the typos.")
+
+else:
+    print("The are no calculation of type errors.")
+    
+finally:
+    print("Code Successfully Executed!")
+    
+
 
 
