@@ -587,7 +587,7 @@ def greet(name, age):
 #Friday[20:21]
 # 28 February 2025
 
-number1 = input('Insert number1:')
+"""number1 = input('Insert number1:')
 number2 = input('Insert number2:')
 
 product = number1 * number2
@@ -596,10 +596,12 @@ addition = number1 + number2
 if product < 1000:
     print(f'The product is {product}')
 else:
-    print(f'The sum is {addition}')
+    print(f'The sum is {addition}')"""
 
 
-def calculate_product_or_sum(num1, num2):
+#Let practice on my own 
+
+def product_and_sum (num1, num2):
     try:
         product = num1 * num2
         if product <= 1000:
@@ -607,14 +609,18 @@ def calculate_product_or_sum(num1, num2):
         else:
             return num1 + num2
     except TypeError:
-        return "Error: Please provide valid integer numbers."
+        return "Error: Please provide valid integer number."
+    finally:
+        return "The code was successful"
 
-# Example usage:
 try:
-    num1 = int(input("Enter first number: "))
-    num2 = int(input("Enter second number: "))
-    result = calculate_product_or_sum(num1, num2)
-    print("Result:", result)
+    num1 = int(input("Input number 1:"))
+    num2 = int(input("Input number 2:"))
+    result = product_and_sum (num1, num2)
+    print(result)
+
 except ValueError:
-    print("Error: Please enter valid integer numbers.")
+    print("Error: Please enter valid integer number.")
+
+
 
