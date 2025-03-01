@@ -686,10 +686,22 @@ print(characters)
 #Note: n must be less than the length of the string.def remove_chars(word, number):
     
 def remove_chars(word, number):
-    
-    return word[number: ]
+    try:
+        if number < 0 or word > len(word): 
+            raise ValueError("Error: Number must be between 0 and the length of the string.")
+        return word[number: ]
+    except ValueError as e:
+        return str(e)
         
-word = input("Input a string: ")
-number = int(input("Input the number of characters to remove: "))
-remain = remove_chars(word, number)
-print(remain)
+
+try:
+    word = input("Input a string: ")
+    number = int(input("Input the number of characters to remove: "))
+    remaining = remove_chars(word, number)
+    print(remaining)
+
+except ValueError:
+    print("Error: Please enter a valid positive integer within the string length")
+
+finally:
+    print("Program execution completed") 
