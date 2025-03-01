@@ -675,3 +675,21 @@ def dissecting_string (string):
 string = input("Type an string word")
 characters = dissecting_string (string) 
 print(characters)
+
+#Exercise 4: Remove first n characters from a string
+#Write a Python code to remove characters from a string from 0 to n and return a new string.
+
+#For Example:
+
+#remove_chars("PYnative", 4) so output must be tive. Here, you need to remove the first four characters from a string.
+#remove_chars("PYnative", 2) so output must be native. Here, you need to remove the first two characters from a string.
+#Note: n must be less than the length of the string.def remove_chars(word, number):
+    
+def remove_chars(word, number):
+    
+    return word[number: ]
+        
+word = input("Input a string: ")
+number = int(input("Input the number of characters to remove: "))
+remain = remove_chars(word, number)
+print(remain)
