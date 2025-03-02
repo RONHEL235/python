@@ -751,4 +751,15 @@ While inside the function, the next thing to be done is to just write one except
 Then outside you are going to write the "try", "except" and "finally" statements when calling the functions and or prompting the user. Then you will be done. 
 
 Remember, no finally statements inside the function, only outside. 
+
+What errors do I know?
+except ValueError
+expect TypeError
+except IndexError
+
+So far those are those in terms of specifications, and by that I mean if you know and understand what type of error you are expecting. But then there is a special one.
+
+except Exception as error
+    print(f'The is and error which is: {error}') 
+
 """
