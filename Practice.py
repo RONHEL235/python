@@ -681,7 +681,7 @@ print(characters)
 
 #For Example:
 
-#remove_chars("PYnative", 4) so output must be tive. Here, you need to remove the first four characters from a string.
+#remove_chars("PYnative", 4) so output must be native. Here, you need to remove the first four characters from a string.
 #remove_chars("PYnative", 2) so output must be native. Here, you need to remove the first two characters from a string.
 #Note: n must be less than the length of the string.def remove_chars(word, number):
     
@@ -711,7 +711,7 @@ finally:
 
 #Write a code to return True if the list’s first and last numbers are the same. If the numbers are different, return False.
 
-def first_and_last (numberList):
+"""def first_and_last (numberList):
     try:
         if not numberList:
             raise ValueError("Error: This cannot be empty.")
@@ -737,7 +737,7 @@ except Exception as e:
     print(f'The eas a error occurred: {e}')
 
 finally:
-    print("Program Executed Successfully")
+    print("Program Executed Successfully")"""
 
 
 #Notes: 
@@ -763,3 +763,30 @@ except Exception as error
     print(f'The is and error which is: {error}') 
 
 """
+
+#Exercise 15: Get an int value of base raises to the power of exponent
+#Write a function called exponent(base, exp) that returns an int value of base raises to the power of exp.
+
+#Note here exp is a non-negative integer, and the base is an integer.
+
+def exponent(base, exp):
+    try:
+        if exp == 0 or base == 0:
+            raise ValueError
+
+        result = base ** exp
+
+        return result
+    
+    except ValueError:
+        print("Give me any number other than zero human!")
+    
+try:
+    exponent_result = exponent(0,4)
+    print(exponent_result)
+
+except ValueError:
+        print("Give me any number other than zero human!")
+    
+finally: 
+    print("Code executed successfully")
