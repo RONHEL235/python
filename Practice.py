@@ -813,7 +813,7 @@ print("The French English Dictionary ", english_to_french)"""
 
 #1. Define a generator function called get_odds() that returns the odd numbers from range(10). Use a for loop to find and print the third value returned.
 
-def get_odds():
+"""def get_odds():
     for num in range(10):
         if num % 2 != 0:
             yield num
@@ -823,6 +823,27 @@ for odds in get_odds():
     count += 1
     if count == 3:
         print("The third odd number is: ", odds)
-        break
+        break"""
+
+#2. Assign the value 7 to the variable guess_me, and the value 1 to the variable number. Write a while loop that compares number with guess_me. Print 'too low' if number is less than guess me. If number equals guess_me, print 'found it!' and then exit the loop. If number is greater than guess_me, print 'oops' and then exit the loop. Increment number at the end of the loop. Use a function.
+
+def guessing_game():
+    guess_me = 7
+    number = 1
+
+    while number <= guess_me:
+        if number != guess_me:
+            print("Guess Again Human!")
+        elif number == guess_me:
+            print("Yay, you found me!")
+            break
+
+        number = number + 1
+
+    else:
+        print("Opps")
 
 
+guessing_game()
+
+         
