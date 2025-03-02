@@ -738,3 +738,17 @@ except Exception as e:
 
 finally:
     print("Program Executed Successfully")
+
+
+#Notes: 
+"""
+When catching errors, if using a function , one has to take heed of the types of traps you set inside and outside the function in order to successfully catch the errors. 
+
+Inside the functions, just ensure that you anticipate the types of errors you might find by raising an error in relation to what might be the actual error. 
+
+While inside the function, the next thing to be done is to just write one except statement inside the function before going outside. 
+
+Then outside you are going to write the "try", "except" and "finally" statements when calling the functions and or prompting the user. Then you will be done. 
+
+Remember, no finally statements inside the function, only outside. 
+"""
