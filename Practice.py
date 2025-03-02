@@ -719,12 +719,22 @@ def first_and_last (numberList):
         first = list[0]
         last = list[-1]
         
-    if first == last:
-        return "True"
-    else:
-        return "False"
+        if first == last:
+            return "True"
+        else:
+            return "False"
 
-except IndexError:
+    except IndexError:
+        print("Error: List out of range.")
+
+    except TypeError:
+        print("Error: Please provide a list of numbers")
     
+try:
+    print(first_and_last([18,12,20,30,18]))
 
-print(first_and_last([18,12,20,30,18]))
+except Exception as e:
+    print(f'The eas a error occurred: {e}')
+
+finally:
+    print("Program Executed Successfully")
