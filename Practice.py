@@ -769,7 +769,7 @@ except Exception as error
 
 #Note here exp is a non-negative integer, and the base is an integer.
 
-def exponent(base, exp):
+"""def exponent(base, exp):
     try:
         if exp == 0 or base == 0:
             raise ValueError
@@ -789,4 +789,23 @@ except ValueError:
         print("Give me any number other than zero human!")
     
 finally: 
-    print("Code executed successfully")
+    print("Code executed successfully")"""
+
+
+#English-to-French Dictionary
+
+#4. create an English-to-French dictionary that allows a user to input an English word, and its French translation as a (k,v) pair.
+
+english_to_french = {}
+
+while True:
+    english_word = input("Input English Word or press 'stop': ")
+
+    if english_word.lower() == 'stop':
+        break
+    
+    french_word = input(f"Input the French Word that translates to {english_word}: ")
+
+    english_to_french[english_word] = french_word
+
+print("The French English Dictionary ", english_to_french)
