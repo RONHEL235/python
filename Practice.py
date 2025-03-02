@@ -796,7 +796,7 @@ finally:
 
 #4. create an English-to-French dictionary that allows a user to input an English word, and its French translation as a (k,v) pair.
 
-english_to_french = {}
+"""english_to_french = {}
 
 while True:
     english_word = input("Input English Word or press 'stop': ")
@@ -808,4 +808,21 @@ while True:
 
     english_to_french[english_word] = french_word
 
-print("The French English Dictionary ", english_to_french)
+print("The French English Dictionary ", english_to_french)"""
+
+
+#1. Define a generator function called get_odds() that returns the odd numbers from range(10). Use a for loop to find and print the third value returned.
+
+def get_odds():
+    for num in range(10):
+        if num % 2 != 0:
+            yield num
+
+count = 0
+for odds in get_odds():
+    count += 1
+    if count == 3:
+        print("The third odd number is: ", odds)
+        break
+
+
