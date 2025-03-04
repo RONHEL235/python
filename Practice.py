@@ -882,3 +882,5 @@ print("Vehicle Name:", School_bus.name, "Speed:", School_bus.max_speed, "Mileage
 #My brain is doing a thing right now but I want to get to 10 commits but I do not want copy and paste. 
 
 #OOP is cool and al, i think its just as easy to understand like any other python concept just that it has a way of getting a bit messy without you even noticing it.
+
+#What is focusing on the right thing? The basics, I have to master what the little things do and I will be great. I believe I am already great and thee most creative human being to ever grace earth. That is just a simple fact, but I brush up on these little things everyday. 
