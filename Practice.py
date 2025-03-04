@@ -880,3 +880,5 @@ School_bus = Bus("School Volvo", 180, 12)
 print("Vehicle Name:", School_bus.name, "Speed:", School_bus.max_speed, "Mileage:", School_bus.mileage)
 
 #My brain is doing a thing right now but I want to get to 10 commits but I do not want copy and paste. 
+
+#OOP is cool and al, i think its just as easy to understand like any other python concept just that it has a way of getting a bit messy without you even noticing it.
