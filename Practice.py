@@ -827,7 +827,7 @@ for odds in get_odds():
 
 #2. Assign the value 7 to the variable guess_me, and the value 1 to the variable number. Write a while loop that compares number with guess_me. Print 'too low' if number is less than guess me. If number equals guess_me, print 'found it!' and then exit the loop. If number is greater than guess_me, print 'oops' and then exit the loop. Increment number at the end of the loop. Use a function.
 
-def guessing_game():
+"""def guessing_game():
     guess_me = 7
     number = 1
 
@@ -844,6 +844,14 @@ def guessing_game():
         print("Opps")
 
 
-guessing_game()
+guessing_game()"""
 
-         
+#3. Write a Python program that plays a game of guess-the-number with the user. The program asks the user to enter the lower, and upper bounds of a range if numbers. The computer will the select a random number from that range and ask the user to guess the number, until the correct one is found. The computer provides a hint to the user after each guess, and displays the number of guesses after it is done.
+
+import random
+
+def guess_the_number():
+    lower = int(input("Input the lower bound: "))
+    upper = int(input("Input the upper bound: "))
+
+    
