@@ -878,3 +878,5 @@ class Bus (Vehicle):
 
 School_bus = Bus("School Volvo", 180, 12)
 print("Vehicle Name:", School_bus.name, "Speed:", School_bus.max_speed, "Mileage:", School_bus.mileage)
+
+#My brain is doing a thing right now but I want to get to 10 commits but I do not want copy and paste. 
