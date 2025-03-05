@@ -892,7 +892,7 @@ print("Vehicle Name:", School_bus.name, "Speed:", School_bus.max_speed, "Mileage
 
 # files/open_try.py
 
-fh = open('fear.txt') # r: read, t: text
+"""fh = open('fear.txt') # r: read, t: text
 
 try: 
     for line in fh:
@@ -900,4 +900,10 @@ try:
 
 finally: 
     fh.close()
-    print("\nFile has been opened successfully")
+    print("\nFile has been opened successfully")"""
+
+#Reading and writing to a file using Context manager.
+
+with open ("Print_example2.txt", "w") as fw:
+    print ("Hey I am printing into a file", file=fw)
+
