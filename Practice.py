@@ -904,6 +904,13 @@ finally:
 
 #Reading and writing to a file using Context manager.
 
-with open ("Print_example2.txt", "w") as fw:
-    print ("Hey I am printing into a file", file=fw)
+#Context manager to open a file 
+"""with open("fear.txt", "rt") as fh:
+    for line in fh:
+        print(line.strip())"""
+
+#Context manage to write to a file  
+"""with open ("Print_example2.txt", "w") as fw:
+    print ("Hey I am printing into a file", file=fw)"""
+
 
