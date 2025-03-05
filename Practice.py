@@ -891,7 +891,13 @@ print("Vehicle Name:", School_bus.name, "Speed:", School_bus.max_speed, "Mileage
 #Chapter 8: Files and Data Persistence
 
 # files/open_try.py
-fh = open('fear.txt', 'rt') # r: read, t: text
-for line in fh.readlines():
- print(line.strip()) # remove whitespace and print
-fh.close()
+
+fh = open('fear.txt') # r: read, t: text
+
+try: 
+    for line in fh:
+        print(line.strip()) # remove whitespace and print
+
+finally: 
+    fh.close()
+    print("\nFile has been opened successfully")
