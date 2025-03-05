@@ -920,3 +920,14 @@ with open ("Print_example.txt") as f: #File now opened & text read by default
 
 with open ("Print_example_copy.txt", "w") as fw:
     fw.write("\n".join(lines))
+
+
+#Creating a file and adding contents to it and then copying them to a new file.
+with open("New_file.txt", "w") as fw:
+    print("New File New Content", file=fw)
+
+with open ("New_file.txt") as f:
+    lines = [line.rstrip() for line in f]
+
+with open ("New_file_copy.txt", "w") as fw:
+    fw.write("\n".join(lines))    
