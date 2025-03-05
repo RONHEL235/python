@@ -848,36 +848,36 @@ guessing_game()"""
 
 #3. Write a Python program that plays a game of guess-the-number with the user. The program asks the user to enter the lower, and upper bounds of a range if numbers. The computer will the select a random number from that range and ask the user to guess the number, until the correct one is found. The computer provides a hint to the user after each guess, and displays the number of guesses after it is done.
 
-import random
+"""import random
 
 def guess_the_number():
     lower = int(input("Input the lower bound: "))
-    upper = int(input("Input the upper bound: "))
+    upper = int(input("Input the upper bound: "))"""
 
 
 #OOP Exercise 1: Create a Class with instance attributes
 #Write a Python program to create a Vehicle class with max_speed and mileage instance attributes.
 
-class Vehicle:
+"""class Vehicle:
     def __init__(self, max_speed, mileage): #Methods
         self.max_speed = max_speed
         self.mileage = mileage
 
 modelX = Vehicle(240, 18)
-print(modelX.max_speed, modelX.mileage)
+print(modelX.max_speed, modelX.mileage)"""
 
 #OOP Exercise 2: Create a Vehicle class without any variables and methods
-class Vehicle:
-        pass
+"""class Vehicle:
+        pass"""
 
 
 #OOP Exercise 3: Create a child class Bus that will inherit all of the variables and methods of the Vehicle class
 
-class Bus (Vehicle):
+"""class Bus (Vehicle):
     pass
 
 School_bus = Bus("School Volvo", 180, 12)
-print("Vehicle Name:", School_bus.name, "Speed:", School_bus.max_speed, "Mileage:", School_bus.mileage)
+print("Vehicle Name:", School_bus.name, "Speed:", School_bus.max_speed, "Mileage:", School_bus.mileage)"""
 
 #My brain is doing a thing right now but I want to get to 10 commits but I do not want copy and paste. 
 
@@ -890,4 +890,8 @@ print("Vehicle Name:", School_bus.name, "Speed:", School_bus.max_speed, "Mileage
 
 #Chapter 8: Files and Data Persistence
 
- 
+# files/open_try.py
+fh = open('fear.txt', 'rt') # r: read, t: text
+for line in fh.readlines():
+ print(line.strip()) # remove whitespace and print
+fh.close()
