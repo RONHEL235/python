@@ -930,4 +930,6 @@ with open ("New_file.txt") as f:
     lines = [line.rstrip() for line in f]
 
 with open ("New_file_copy.txt", "w") as fw:
-    fw.write("\n".join(lines))    
+    fw.write("\n".join(lines))
+
+#Add a statement to show that the text has been written or copied to another text successfully.    
