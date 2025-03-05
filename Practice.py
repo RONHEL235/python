@@ -910,7 +910,13 @@ finally:
         print(line.strip())"""
 
 #Context manage to write to a file  
-"""with open ("Print_example2.txt", "w") as fw:
+"""with open("Print_example2.txt", "w") as fw:
     print ("Hey I am printing into a file", file=fw)"""
 
 
+#Copying contents of a file into another file
+with open ("Print_example.txt") as f: #File now opened & text read by default
+    lines = [line.rstrip() for line in f]
+
+with open ("Print_example_copy.txt", "w") as fw:
+    fw.write("\n".join(lines))

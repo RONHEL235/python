@@ -1,8 +1,7 @@
 Just like a snake, Python can be sneaky and strike out of nowhere.
 What I experienced 3 days ago
 I just to fill in the lines
-Filling line 4 
+Filling line 4
 I will stop a line 5
-
 
 
