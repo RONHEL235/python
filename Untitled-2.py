@@ -22,3 +22,14 @@ whole = ' '.join(lines)
 cnt = Counter(whole.lower().split())
 # we can print the N most common words
 print(cnt.most_common(3))
+
+#The rstrip()
+
+text = "Hello, World!   "
+clean_text = text.lstrip()
+print(f"'{clean_text}'")  # Output: 'Hello, World!'
+
+"   Hello World!  "
+
+#result
+"Hello World   "
