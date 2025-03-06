@@ -932,4 +932,9 @@ with open("New_file.txt", "w") as fw:
 with open ("New_file_copy.txt", "w") as fw:
     fw.write("\n".join(lines))
 """
-#Add a statement to show that the text has been written or copied to another text successfully.    
+#Add a statement to show that the text has been written or copied to another text successfully.
+
+
+#Appending to a file with every run 
+with open ("print_example4.txt", "a") as fw:
+    print("Testing", file=fw)
