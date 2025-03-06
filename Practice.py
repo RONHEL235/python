@@ -936,5 +936,5 @@ with open ("New_file_copy.txt", "w") as fw:
 
 
 #Appending to a file with every run 
-with open ("print_example4.txt", "a") as fw:
-    print("Testing", file=fw)
+"""with open ("print_example4.txt", "a") as fw:
+    print("Testing", file=fw)"""
