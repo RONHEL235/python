@@ -85,3 +85,5 @@ class Person(Base):
         return self.email
     __repr__ = __str__
     Base.metadata.create_all(engine)
+
+#We are not going to use this by the way. The whole chapter is irrelevant because that whole Alchemy thing is not what we are going to use. 
