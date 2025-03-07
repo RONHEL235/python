@@ -938,3 +938,12 @@ with open ("New_file_copy.txt", "w") as fw:
 #Appending to a file with every run 
 """with open ("print_example4.txt", "a") as fw:
     print("Testing", file=fw)"""
+
+
+#Python Input and Output Exercise
+
+#Exercise 1: Accept numbers from a user
+
+#Write a program to accept two numbers from the user and calculate multiplication
+
+
