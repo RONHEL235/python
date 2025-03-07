@@ -971,3 +971,13 @@ if size == 0:
     print("File is empty")
 
 #There is more to learn about the "os"
+
+#Exercise 8: Format variables using a string.format() method.
+#Write a program to use string.format() method to format the following three variables as per the expected output
+
+#Given
+totalMoney = 1000
+quantity = 3
+price = 450
+
+print(f'I have {totalMoney} dollars so that I can buy {quantity} football for {price} dollars')
