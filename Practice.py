@@ -951,5 +951,11 @@ with open ("test.txt", "w") as fw:
     while line < 8:
         print(f'Line{line}', file=fw)
         line = line + 1
+
+#Solution to read lines from a file 
+
+with open ("test.txt", "r") as fw:
+    lines = fw.readlines()
+    print(lines[3]) 
         
 
