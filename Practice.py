@@ -946,7 +946,7 @@ with open ("New_file_copy.txt", "w") as fw:
 
 #Create a test.txt file and add the below content to it.
 
-with open ("test.txt", "w") as fw:
+"""with open ("test.txt", "w") as fw:
     line = 1
     while line < 8:
         print(f'Line{line}', file=fw)
@@ -956,6 +956,18 @@ with open ("test.txt", "w") as fw:
 
 with open ("test.txt", "r") as fw:
     lines = fw.readlines()
-    print(lines[3]) 
-        
+    print(lines[3])""" 
 
+#I still have to add Exceptions to this. 
+
+
+#Exercise 9: Check file is empty or not
+#Write a program to check if the given file is empty or not        
+
+import os
+
+size = os.stat("test.txt").st_size
+if size == 0:
+    print("File is empty")
+
+#There is more to learn about the "os"
