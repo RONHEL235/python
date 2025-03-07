@@ -940,6 +940,9 @@ with open ("New_file_copy.txt", "w") as fw:
     print("Testing", file=fw)"""
 
 
+#Friday [10:38]
+#07 March 2025 
+
 #Python Input and Output Exercise
 
 #Exercise 10: Read line number 4 from the following file
@@ -989,3 +992,6 @@ totalMoney = 1000
 price = 450
 statement1 = "I have {1} dollars so I can buy {0} football for {2:.2f} dollars."
 print(statement1.format(quantity, totalMoney, price))
+
+
+#Thats enough code for the day
