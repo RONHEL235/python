@@ -942,8 +942,14 @@ with open ("New_file_copy.txt", "w") as fw:
 
 #Python Input and Output Exercise
 
-#Exercise 1: Accept numbers from a user
+#Exercise 10: Read line number 4 from the following file
 
-#Write a program to accept two numbers from the user and calculate multiplication
+#Create a test.txt file and add the below content to it.
 
+with open ("test.txt", "w") as fw:
+    line = 1
+    while line < 8:
+        print(f'Line{line}', file=fw)
+        line = line + 1
+        
 
