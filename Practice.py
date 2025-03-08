@@ -1075,3 +1075,12 @@ for i in range(0,n+1):
     for j in range(k-i,0,-1):
         print(j,end=' ')
     print()
+
+#Exercise 8: Print list in reverse order using a loop
+
+list1 = [10, 20, 30, 40, 50]
+# reverse list
+new_list = reversed(list1)
+# iterate reversed list
+for item in new_list:
+    print(item)
