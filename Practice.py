@@ -1050,4 +1050,20 @@ for i in range(1, 11, 1):
     product = n * i
     print(product)
 
+#Exercise 6: Count the total number of digits in a number
+#Write a Python program to count the total number of digits in a number using a while loop.
+
+#For example, the number is 75869, so the output should be 5.
+
+num = 75869
+count = 0
+while num != 0:
+    # floor division
+    # to reduce the last digit from number
+    num = num // 10
+
+    # increment counter by 1
+    count = count + 1
+print("Total digits are:", count)
+
 
