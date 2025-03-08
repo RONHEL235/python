@@ -995,3 +995,14 @@ print(statement1.format(quantity, totalMoney, price))
 
 
 #Thats enough code for the day
+
+#Saturday [20:19]
+#08 March 2025
+
+#Exercise 1: Print first 10 natural numbers using while loop
+
+# program 1: Print first 10 natural numbers
+i = 1
+while i <= 10:
+    print(i)
+    i += 1
