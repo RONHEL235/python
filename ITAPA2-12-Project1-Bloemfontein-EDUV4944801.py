@@ -1,6 +1,6 @@
 #Question 1
 
-class BudgetCalculator:
+"""class BudgetCalculator:
     def __init__(self, user_code, gross_income):
         self.user_code = user_code
         self.gross_income = gross_income
@@ -84,8 +84,147 @@ def main():
             print("Invalid option. Please try again.\n")
 
 if __name__ == "__main__":
-    main()
+    main()"""
 
 
 #Question 2
 
+import sqlite3
+
+class Store:
+    def __init__(self):
+        self.initialize_database()
+
+    def initialize_database(self):
+        conn = sqlite3.connect('store_database.db')
+        cursor = conn.cursor()
+        cursor.execute('''CREATE TABLE IF NOT EXISTS Products
+                         (prodID INTEGER PRIMARY KEY AUTOINCREMENT,
+                          prodName TEXT,
+                          prodPrice REAL,
+                          prodQuantity INTEGER)''')
+        cursor.execute('''CREATE TABLE IF NOT EXISTS Sales
+                         (saleID INTEGER PRIMARY KEY AUTOINCREMENT,
+                          saleDate TEXT,
+                          productName TEXT,
+                          saleTotal REAL)''')
+        conn.commit()
+        conn.close()
+
+    def add_product(self, name, price, quantity):
+        with sqlite3.connect('store_database.db') as conn:
+            cursor = conn.cursor()
+            cursor.execute("INSERT INTO Products (prodName, prodPrice, prodQuantity) VALUES (?, ?, ?)",
+                           (name, price, quantity))
+            conn.commit()
+            print("Product added successfully.")
+
+    def remove_product(self, product_id):
+        with sqlite3.connect('store_database.db') as conn:
+            cursor = conn.cursor()
+            cursor.execute("DELETE FROM Products WHERE prodID=?", (product_id,))
+            conn.commit()
+            if cursor.rowcount == 0:
+                print("Product not found.")
+            else:
+                print("Data deleted successfully.")
+
+    def update_product(self, product_id, new_name, new_price, new_quantity):
+        with sqlite3.connect('store_database.db') as conn:
+            cursor = conn.cursor()
+            cursor.execute("UPDATE Products SET prodName=?, prodPrice=?, prodQuantity=? WHERE prodID=?",
+                           (new_name, new_price, new_quantity, product_id))
+            conn.commit()
+            if cursor.rowcount == 0:
+                print("Product not found.")
+            else:
+                print("Data updated successfully.")
+
+    def display_products(self):
+        with sqlite3.connect('store_database.db') as conn:
+            cursor = conn.cursor()
+            cursor.execute("SELECT * FROM Products")
+            rows = cursor.fetchall()
+            if not rows:
+                print("No products found.")
+                return
+            print("prodID\tprodName\tprodPrice\tprodQuantity")
+            for row in rows:
+                print(f"{row[0]}\t{row[1]}\t{row[2]}\t{row[3]}")
+
+    def sell_product(self, product_id, sale_date, sale_quantity):
+        with sqlite3.connect('store_database.db') as conn:
+            cursor = conn.cursor()
+            cursor.execute("SELECT prodName, prodPrice, prodQuantity FROM Products WHERE prodID=?", (product_id,))
+            product = cursor.fetchone()
+            if not product:
+                print("Product not found.")
+                return
+            product_name, product_price, current_quantity = product
+            if current_quantity < sale_quantity:
+                print("Insufficient quantity available.")
+                return
+            if sale_quantity <= 0:
+                print("Invalid sale quantity.")
+                return
+            new_quantity = current_quantity - sale_quantity
+            cursor.execute("UPDATE Products SET prodQuantity=? WHERE prodID=?", (new_quantity, product_id))
+            sale_total = product_price * sale_quantity
+            cursor.execute("INSERT INTO Sales (saleDate, productName, saleTotal) VALUES (?, ?, ?)",
+                           (sale_date, product_name, sale_total))
+            conn.commit()
+            print("Sale completed successfully.")
+
+def main():
+    store = Store()
+    while True:
+        print("\nWelcome to the Store Management System!")
+        print("1. Add a product")
+        print("2. Remove a product")
+        print("3. Update a product")
+        print("4. Display all products")
+        print("5. Sell a product")
+        print("6. Exit")
+        choice = input("Select an option: ").strip()
+        
+        if choice == '6':
+            print("Exiting the system. Goodbye!")
+            break
+        elif choice == '1':
+            try:
+                name = input("Enter product name: ")
+                price = float(input("Enter product price: "))
+                quantity = int(input("Enter product quantity: "))
+                store.add_product(name, price, quantity)
+            except ValueError:
+                print("Invalid input. Please enter valid numbers.")
+        elif choice == '2':
+            try:
+                product_id = int(input("Enter ID of product to remove: "))
+                store.remove_product(product_id)
+            except ValueError:
+                print("Invalid product ID. Please enter a number.")
+        elif choice == '3':
+            try:
+                product_id = int(input("Enter ID of product to update: "))
+                new_name = input("Enter new product name: ")
+                new_price = float(input("Enter new product price: "))
+                new_quantity = int(input("Enter new product quantity: "))
+                store.update_product(product_id, new_name, new_price, new_quantity)
+            except ValueError:
+                print("Invalid input. Please enter valid values.")
+        elif choice == '4':
+            store.display_products()
+        elif choice == '5':
+            try:
+                product_id = int(input("Enter product ID: "))
+                sale_date = input("Enter sale date (MM/DD/YYYY): ")
+                sale_quantity = int(input("Enter sale quantity: "))
+                store.sell_product(product_id, sale_date, sale_quantity)
+            except ValueError:
+                print("Invalid input. Please enter valid numbers.")
+        else:
+            print("Invalid option. Please select a valid option (1-6).")
+
+if __name__ == "__main__":
+    main()
