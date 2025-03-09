@@ -230,4 +230,6 @@ if __name__ == "__main__":
     main()
 
 
-#This has to be done using the real SQL Database and I am exited 
+#This has to be done using the real SQL Database and I am exited. 
+
+#This will be tackeled tommorw though. Tomorrow is the the best and most productie dat ever, I swear.
