@@ -240,4 +240,7 @@ if __name__ == "__main__":
 
 #Note taking 
 #I will be required to use the real version of SQL and not the imported version.
-#I am going to have to create a database and connect to it using "mysql.connector".  
+
+#I am going to have to create a database and connect to it using "mysql.connector".
+
+#After connecting to the database that is when I will have the privilege of creating tables and manipulating them how I see fit. 
