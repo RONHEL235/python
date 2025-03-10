@@ -233,3 +233,10 @@ if __name__ == "__main__":
 #This has to be done using the real SQL Database and I am exited. 
 
 #This will be tackeled tommorw though. Tomorrow is the the best and most productie dat ever, I swear.
+
+
+#Monday [18:03]
+#10 March 2025
+
+#Note taking 
+#I will be required to use the real version of SQL and not the imported version 
