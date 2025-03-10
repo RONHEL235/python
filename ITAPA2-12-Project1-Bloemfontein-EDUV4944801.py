@@ -245,4 +245,6 @@ if __name__ == "__main__":
 
 #After connecting to the database that is when I will have the privilege of creating tables and manipulating them how I see fit.
 
-#My project requires this way of answering the second question and not use the method stipulated in the book.  
+#My project requires this way of answering the second question and not use the method stipulated in the book.
+
+#Basically I am done with this project, I just need to complete everything by tomorrow.   
