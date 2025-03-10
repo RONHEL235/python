@@ -248,3 +248,5 @@ if __name__ == "__main__":
 #My project requires this way of answering the second question and not use the method stipulated in the book.
 
 #Basically I am done with this project, I just need to complete everything by tomorrow.   
+
+#I have to figure out about the GUI too, Do I use the fthingy extension or what? 
