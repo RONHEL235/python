@@ -239,4 +239,5 @@ if __name__ == "__main__":
 #10 March 2025
 
 #Note taking 
-#I will be required to use the real version of SQL and not the imported version 
+#I will be required to use the real version of SQL and not the imported version.
+#I am going to have to create a database and connect to it using "mysql.connector".  
