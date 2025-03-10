@@ -249,4 +249,6 @@ if __name__ == "__main__":
 
 #Basically I am done with this project, I just need to complete everything by tomorrow.   
 
-#I have to figure out about the GUI too, Do I use the fthingy extension or what? 
+#I have to figure out about the GUI too, Do I use the fthingy extension or what?
+
+#Okay tomorrow is the greatest and most productive day in the universe. Thank you.   
