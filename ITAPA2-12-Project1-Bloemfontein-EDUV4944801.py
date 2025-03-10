@@ -243,4 +243,6 @@ if __name__ == "__main__":
 
 #I am going to have to create a database and connect to it using "mysql.connector".
 
-#After connecting to the database that is when I will have the privilege of creating tables and manipulating them how I see fit. 
+#After connecting to the database that is when I will have the privilege of creating tables and manipulating them how I see fit.
+
+#My project requires this way of answering the second question and not use the method stipulated in the book.  
