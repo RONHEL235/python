@@ -1084,3 +1084,5 @@ new_list = reversed(list1)
 # iterate reversed list
 for item in new_list:
     print(item)
+
+#Faith 

@@ -251,4 +251,7 @@ if __name__ == "__main__":
 
 #I have to figure out about the GUI too, Do I use the fthingy extension or what?
 
-#Okay tomorrow is the greatest and most productive day in the universe. Thank you.   
+#Okay tomorrow is the greatest and most productive day in the universe. Thank you.
+
+
+#Faith is pivotal.
