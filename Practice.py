@@ -1094,3 +1094,8 @@ for item in new_list:
 """
 I have not written on this laptop in a while now. I do think the biggest skill anyone can possess is the ability to read and write. I have been so privileged and blessed to have been surrounded by such wisdom, such intelligence, such knowledge. At times I take this for granted because think it is something that avails itself to all. But the more the days go by the more I realize that what is happening to be is a 1 of 1 kind of experience and all I have to do is be in awareness of that.  
 """
+
+#Chapter 2: Fear.
+"""
+Then it hit me. I was sweeping the house today morning when I realized how scared I was of my own potential. I hit me so hard that I had to fetch my journal and and write about it, a ton of bricks, I know. How was I so scared of succeeding and not at failing. It did not make any sense. But It does not end just at that. I was scared or succeeding and failing once I succeed. That is what scared me the most, the fall of. But here is the kicker, the fall of happened. The fall of did happen and I am still healthy and well fed. The very same thing i was scared of happened. The mind is something else.   
+""" 
