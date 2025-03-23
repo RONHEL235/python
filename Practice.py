@@ -1119,3 +1119,8 @@ No, I really need to sleep. It is going to be new day in 2 minutes and I am on v
 """
 I love conspiracy theories. Okay ley me say I love mystery. I love it so much but I be acting like I do not. I want to geek. Now I crave some reading after this writing. After this thought provoking freedom. Anyways, there are so many questions about this physical realm and not enough answers. And even the answers themselves are doubtful, and of course they are doubtful, what help with crediting all these answers. I have been watching too much.     
 """ 
+
+#Chapter 7: There goes my 7 commits.
+"""
+That is the daily mission.
+"""
