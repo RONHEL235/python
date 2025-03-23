@@ -1112,5 +1112,10 @@ I lack self talk. I lean more into thinking, not the active kind but the passive
 
 #Chapter 5: I need to sleep.
 """
-No, I really need to sleep. It is going to be new day in 2 minutes and I am on vs code practicing my writing. No lie, writing here is better than writing on Word. Microsoft be high key owning everything man. But the biggest ownership is one of the mind.    
+No, I really need to sleep. It is going to be new day in 2 minutes and I am on vs code practicing my writing. No lie, writing here is better than writing on Word. Microsoft be high key owning everything. But the biggest ownership is of the mind.    
 """
+
+#Chapter 6: Too many questions, not enough answers.
+"""
+I love conspiracy theories. Okay ley me say I love mystery. I love it so much but I be acting like I do not. I want to geek. Now I crave some reading after this writing. After this thought provoking freedom. Anyways, there are so many questions about this physical realm and not enough answers. And even the answers themselves are doubtful, and of course they are doubtful, what help with crediting all these answers. I have been watching too much.     
+""" 
