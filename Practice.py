@@ -1104,3 +1104,9 @@ Then it hit me. I was sweeping the house today morning when I realized how scare
 """
 Most times I feel like I am just a spectator watching my whole life at play. I am so scared to engage and commit because of chapter 2. But we are done with that right, we are good. What I am trying to say is that I lack passion like most people. I seem to be "looking" for what I am passionate even at my adult age. Time has been wasted because of a lack of commitment.    
 """
+
+#Chapter 4: Who are you. 
+"""
+I lack self talk. I lean more into thinking, not the active kind but the passive kind. I have kind of let myself go into this default mode of passive thinking that lets me off the hook. The mode of thinking that ensures that I do not have to do any work. I am the one who is watching and talking at the same time. Watching can be good if the imagination is positive. My watching tends to combine the uncomfortable past and the not yet future into this ball of infinite pathways that leads to a never ending abyss, and not the good kind. Solution: "Turn the Tv off, Turn the Tv off". Who am I? I am he who must speak, talk, voice in, voice out, conversate, articulate, narrate. Like do something Ronee, dont just watch! I understand.     
+"""
+
