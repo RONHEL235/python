@@ -1124,3 +1124,8 @@ I love conspiracy theories. Okay ley me say I love mystery. I love it so much bu
 """
 That is the daily mission.
 """
+
+#Chapter 8: Last one.
+"""
+Life is great and it keeps on getting greater.
+"""
