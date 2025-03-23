@@ -1086,3 +1086,11 @@ for item in new_list:
     print(item)
 
 #Faith 
+
+#Sunday
+#23 March 2025
+ 
+#Chapter 1: Awareness. 
+"""
+I have not written on this laptop in a while now. I do think the biggest skill anyone can possess is the ability to read and write. I have been so privileged and blessed to have been surrounded by such wisdom, such intelligence, such knowledge. At times I take this for granted because think it is something that avails itself to all. But the more the days go by the more I realize that what is happening to be is a 1 of 1 kind of experience and all I have to do is be in awareness of that.  
+"""
