@@ -1110,3 +1110,7 @@ Most times I feel like I am just a spectator watching my whole life at play. I a
 I lack self talk. I lean more into thinking, not the active kind but the passive kind. I have kind of let myself go into this default mode of passive thinking that lets me off the hook. The mode of thinking that ensures that I do not have to do any work. I am the one who is watching and talking at the same time. Watching can be good if the imagination is positive. My watching tends to combine the uncomfortable past and the not yet future into this ball of infinite pathways that leads to a never ending abyss, and not the good kind. Solution: "Turn the Tv off, Turn the Tv off". Who am I? I am he who must speak, talk, voice in, voice out, conversate, articulate, narrate. Like do something Ronee, dont just watch! I understand.     
 """
 
+#Chapter 5: I need to sleep.
+"""
+No, I really need to sleep. It is going to be new day in 2 minutes and I am on vs code practicing my writing. No lie, writing here is better than writing on Word. Microsoft be high key owning everything man. But the biggest ownership is one of the mind.    
+"""
