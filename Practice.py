@@ -1099,3 +1099,8 @@ I have not written on this laptop in a while now. I do think the biggest skill a
 """
 Then it hit me. I was sweeping the house today morning when I realized how scared I was of my own potential. I hit me so hard that I had to fetch my journal and and write about it, a ton of bricks, I know. How was I so scared of succeeding and not at failing. It did not make any sense. But It does not end just at that. I was scared or succeeding and failing once I succeed. That is what scared me the most, the fall of. But here is the kicker, the fall of happened. The fall of did happen and I am still healthy and well fed. The very same thing i was scared of happened. The mind is something else.   
 """ 
+
+#Chapter 3: Commitment.
+"""
+Most times I feel like I am just a spectator watching my whole life at play. I am so scared to engage and commit because of chapter 2. But we are done with that right, we are good. What I am trying to say is that I lack passion like most people. I seem to be "looking" for what I am passionate even at my adult age. Time has been wasted because of a lack of commitment.    
+"""
