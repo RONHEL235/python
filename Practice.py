@@ -1134,8 +1134,12 @@ Life is great and it keeps on getting greater.
 #25 March 2025
 
 
-#Chapter 1: The prophecy
+#Chapter 1: The prophecy.
 """
-I need to fullfil this prophecy
+I need to fullfil this prophecy.
 """
 
+#Chapter 2: Urgency.
+"""
+There is urgency in his veins now.
+"""
