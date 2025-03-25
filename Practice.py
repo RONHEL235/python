@@ -1159,3 +1159,8 @@ Energy is his new currency.
 Health is the new wealth.
 """
 
+#Chapter 6: Focus.
+"""
+Focus is the new discipline. Pay attention. 
+"""
+
