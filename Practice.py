@@ -1164,3 +1164,10 @@ Health is the new wealth.
 Focus is the new discipline. Pay attention. 
 """
 
+#Chapter 7: Routine.
+"""
+Routine is the new consistency. This life thing is too precious for us to take it for granted. I am the version of my ultimate self. My people need me. My people are desperate for my help. I am here now, forever.   
+""" 
+
+
+
