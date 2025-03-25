@@ -1143,3 +1143,10 @@ I need to fullfil this prophecy.
 """
 There is urgency in his veins now.
 """
+
+#Chapter 3: Gratitude.
+"""
+Gratitude is his biggest protector.
+""" 
+
+
