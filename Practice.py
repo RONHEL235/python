@@ -1149,4 +1149,8 @@ There is urgency in his veins now.
 Gratitude is his biggest protector.
 """ 
 
+#Chapter 4: Energy.
+"""
+Energy is his new currency.
+"""
 
