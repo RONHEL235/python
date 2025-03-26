@@ -1169,5 +1169,16 @@ Focus is the new discipline. Pay attention.
 Routine is the new consistency. This life thing is too precious for us to take it for granted. I am the version of my ultimate self. My people need me. My people are desperate for my help. I am here now, forever.   
 """ 
 
+#Wednesday [15:41]
+#26 March 2025
 
+#Python Object Orientated Programming
 
+#Defining a class
+class class_name:
+    '''This is a docstring. I have created a new class'''
+    <statement 1>
+    <statement 2>
+    .
+    .
+    <statement N>
