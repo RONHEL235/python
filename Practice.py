@@ -1200,3 +1200,5 @@ Ronee = Person("Ronee", "Male", "Senior Software Engineer")
 
 Ronee.show()
 Ronee.work()
+
+#Classes are really easy and understandable.
