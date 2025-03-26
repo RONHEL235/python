@@ -1203,4 +1203,6 @@ Ronee.work()
 
 #Classes are really easy and understandable.
 
-#OOP is the one concept in programming that I did not a natural intuitive inclination on. We good now.  
+#OOP is the one concept in programming that I did not a natural intuitive inclination on. We good now.
+
+#I am back doing the fasting now, only ate two apples two cups of coffee and water. My body is shaking but understandable. After this I am exercising and and dong some meditative activities, then I am off to sleep.  
