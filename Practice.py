@@ -1202,3 +1202,5 @@ Ronee.show()
 Ronee.work()
 
 #Classes are really easy and understandable.
+
+#OOP is the one concept in programming that I did not a natural intuitive inclination on. We good now.  
