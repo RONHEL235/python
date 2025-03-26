@@ -1193,4 +1193,10 @@ class Person:
         print("Name: ", self.name, "Sex: ", self.sex, "Profession: ", self.profession)
 
     def work(self):
-        print(self.name, "working as a ", self.profession)     
+        print(self.name, "working as a ", self.profession)
+
+#Creating an object of the class
+Ronee = Person("Ronee", "Male", "Senior Software Engineer")
+
+Ronee.show()
+Ronee.work()
