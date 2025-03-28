@@ -1228,4 +1228,9 @@ class Vehicle:
 
 print(Vehicle(35, 56).max_speed, Vehicle(20, 100).milage)
 
+#Exercise 2: Create a Vehicle class without any variables and methods.
+
+class Vehicle:
+    #Do not initialise it if you are not going to use it.
+    pass
 
