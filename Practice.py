@@ -915,7 +915,7 @@ finally:
 
 
 #Copying contents of a file into another file
-with open ("Print_example.txt") as f: #File now opened & text read by default
+"""with open ("Print_example.txt") as f: #File now opened & text read by default
     lines = [line.rstrip() for line in f]
 
 with open ("Print_example_copy.txt", "w") as fw:
@@ -924,7 +924,7 @@ with open ("Print_example_copy.txt", "w") as fw:
 
 #Creating a file and adding contents to it and then copying them to a new file.
 with open("New_file.txt", "w") as fw:
-    print("New File New Content", file=fw)
+    print("New File New Content", file=fw)"""
 
 """with open ("New_file.txt") as f:
     lines = [line.rstrip() for line in f]
@@ -967,11 +967,11 @@ with open ("test.txt", "r") as fw:
 #Exercise 9: Check file is empty or not
 #Write a program to check if the given file is empty or not        
 
-import os
+"""import os
 
 size = os.stat("test.txt").st_size
 if size == 0:
-    print("File is empty")
+    print("File is empty")"""
 
 #There is more to learn about the "os"
 
@@ -979,7 +979,7 @@ if size == 0:
 #Write a program to use string.format() method to format the following three variables as per the expected output
 
 #Given
-totalMoney = 1000
+"""totalMoney = 1000
 quantity = 3
 price = 450
 
@@ -991,7 +991,7 @@ quantity = 3
 totalMoney = 1000
 price = 450
 statement1 = "I have {1} dollars so I can buy {0} football for {2:.2f} dollars."
-print(statement1.format(quantity, totalMoney, price))
+print(statement1.format(quantity, totalMoney, price))"""
 
 
 #Thats enough code for the day
@@ -1002,28 +1002,27 @@ print(statement1.format(quantity, totalMoney, price))
 #Exercise 1: Print first 10 natural numbers using while loop
 
 # program 1: Print first 10 natural numbers
-i = 1
+"""i = 1
 while i <= 10:
     print(i)
-    i += 1
+    i += 1"""
 
 #Exercise 2: Print the following pattern
 #Write a Python code to print the following number pattern using a loop.
 
-print("Number Pattern ")
-
+"""print("Number Pattern ")"""
 # Decide the row count. (above pattern contains 5 rows)
-row = 5
+"""row = 5"""
 # start: 1
 # stop: row+1 (range never include stop number in result)
 # step: 1
 # run loop 5 times
-for i in range(1, row + 1, 1):
+"""for i in range(1, row + 1, 1):
     # Run inner loop i+1 times
     for j in range(1, i + 1):
         print(j, end=' ')
     # empty line after each row
-    print("")
+    print("")"""
 
 #Exercise 3: Calculate sum of all numbers from 1 to a given number
 #Write a Python program to accept a number from a user and calculate the sum of all numbers from 1 to a given number
@@ -1031,7 +1030,7 @@ for i in range(1, row + 1, 1):
 #For example, if the user entered 10, the output should be 55 (1+2+3+4+5+6+7+8+9+10)
 
 # s: store sum of all numbers
-s = 0
+"""s = 0
 n = int(input("Enter number "))
 # run loop n times
 # stop: n+1 (because range never include stop number in result)
@@ -1048,14 +1047,14 @@ n = 2
 for i in range(1, 11, 1):
     # 2 *i (current number)
     product = n * i
-    print(product)
+    print(product)"""
 
 #Exercise 6: Count the total number of digits in a number
 #Write a Python program to count the total number of digits in a number using a while loop.
 
 #For example, the number is 75869, so the output should be 5.
 
-num = 75869
+"""num = 75869
 count = 0
 while num != 0:
     # floor division
@@ -1064,26 +1063,26 @@ while num != 0:
 
     # increment counter by 1
     count = count + 1
-print("Total digits are:", count)
+print("Total digits are:", count)"""
 
 #Exercise 7: Print the following pattern
 #Write a Python program to print the reverse number pattern using a for loop.
 
-n = 5
+"""n = 5
 k = 5
 for i in range(0,n+1):
     for j in range(k-i,0,-1):
         print(j,end=' ')
-    print()
+    print()"""
 
 #Exercise 8: Print list in reverse order using a loop
 
-list1 = [10, 20, 30, 40, 50]
+"""list1 = [10, 20, 30, 40, 50]
 # reverse list
 new_list = reversed(list1)
 # iterate reversed list
 for item in new_list:
-    print(item)
+    print(item)"""
 
 #Faith 
 
@@ -1175,7 +1174,7 @@ Routine is the new consistency. This life thing is too precious for us to take i
 #Python Object Orientated Programming
 
 #Defining a class
-class class_name:
+"""class class_name:
     '''This is a docstring. I have created a new class'''
     <statement 1>
     <statement 2>
@@ -1199,7 +1198,7 @@ class Person:
 Ronee = Person("Ronee", "Male", "Senior Software Engineer")
 
 Ronee.show()
-Ronee.work()
+Ronee.work()"""
 
 #Classes are really easy and understandable.
 
@@ -1208,3 +1207,25 @@ Ronee.work()
 #I am back doing the fasting now, only ate two apples two cups of coffee and water. My body is shaking but understandable. After this I am exercising and and dong some meditative activities, then I am off to sleep.  
 
 #Alright lets continue tomorrow with some more learning and amazing days.
+
+
+#Friday [17:29]
+#28 March 2025
+
+#Continue with the OOP.
+
+#Exercise 1: Create a Class with instance attributes
+
+
+#Defining a class and its attributes.
+class Vehicle:
+    def __init__ (self, max_speed, milage):
+        self.milage = milage
+        self.max_speed = max_speed
+        
+
+#Calling printing the attributes?
+
+print(Vehicle(35, 56).max_speed, Vehicle(20, 100).milage)
+
+
