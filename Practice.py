@@ -1259,7 +1259,7 @@ Create a Bus class that inherits from the Vehicle class. Give the capacity argum
 Use the following code for your parent Vehicle class.
 """
 
-class Vehicle:
+"""class Vehicle:
     #Attributes fo the class
     def __init__(self, name, max_speed, mileage):
         self.name = name
@@ -1281,7 +1281,14 @@ class Bus(Vehicle): #As soon as I use inheritance here, everything now becomes a
     #We only take what we need from the Parent class.
 
 the_bus = Bus("Intercape", 50)
-print(the_bus.seating_capacity())
+print(the_bus.seating_capacity())"""
+
+#We will get into the rest tomorrow.
+
+"""
+I understand my problem now, my natural state of being is the one thing interfering with my intended being. 
+I realized this when I was walking to campus. I noticed how in a hurry I was and in that moment that is when I just told myself to slow down. Then I laughed at myself upon realization. Like right now. I am doing amazing and I understand it.    
+"""
 
 #Exercise 5: 
 
