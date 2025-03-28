@@ -1218,7 +1218,7 @@ Ronee.work()"""
 
 
 #Defining a class and its attributes.
-class Vehicle:
+"""class Vehicle:
     def __init__ (self, max_speed, milage):
         self.milage = milage
         self.max_speed = max_speed
@@ -1226,11 +1226,26 @@ class Vehicle:
 
 #Calling printing the attributes?
 
-print(Vehicle(35, 56).max_speed, Vehicle(20, 100).milage)
+print(Vehicle(35, 56).max_speed, Vehicle(20, 100).milage)"""
 
 #Exercise 2: Create a Vehicle class without any variables and methods.
 
-class Vehicle:
+"""class Vehicle:
     #Do not initialise it if you are not going to use it.
+    pass"""
+
+#Exercise 3: Create a child class Bus that will inherit all of the variables and methods of the Vehicle class.
+
+class Vehicle:
+
+    def __init__(self, name, max_speed, mileage):
+        self.name = name
+        self.max_speed = max_speed
+        self.mileage = mileage
+    
+class Bus(Vehicle):
     pass
 
+bus_variables = Bus("Intercape", 250, 60)
+
+print(bus_variables.name, bus_variables.max_speed, bus_variables.mileage) 
