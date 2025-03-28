@@ -1290,6 +1290,8 @@ I understand my problem now, my natural state of being is the one thing interfer
 I realized this when I was walking to campus. I noticed how in a hurry I was and in that moment that is when I just told myself to slow down. Then I laughed at myself upon realization. Like right now. I am doing amazing and I understand it.    
 """
 
-#Exercise 5: 
+"""
+Definitely making time for me everyday.  
+"""  
 
 
