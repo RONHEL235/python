@@ -1216,6 +1216,7 @@ Ronee.work()"""
 
 #Exercise 1: Create a Class with instance attributes
 
+#Write a Python program to create a Vehicle class with max_speed and mileage instance attributes.
 
 #Defining a class and its attributes.
 """class Vehicle:
@@ -1236,7 +1237,7 @@ print(Vehicle(35, 56).max_speed, Vehicle(20, 100).milage)"""
 
 #Exercise 3: Create a child class Bus that will inherit all of the variables and methods of the Vehicle class.
 
-class Vehicle:
+"""class Vehicle:
 
     def __init__(self, name, max_speed, mileage):
         self.name = name
@@ -1248,4 +1249,30 @@ class Bus(Vehicle):
 
 bus_variables = Bus("Intercape", 250, 60)
 
-print(bus_variables.name, bus_variables.max_speed, bus_variables.mileage) 
+print(bus_variables.name, bus_variables.max_speed, bus_variables.mileage)"""
+
+#OOP Exercise 4: Class Inheritance
+
+"""
+Create a Bus class that inherits from the Vehicle class. Give the capacity argument of Bus.seating_capacity() a default value of 50.
+
+Use the following code for your parent Vehicle class.
+"""
+
+class Vehicle:
+    def __init__(self, name, max_speed, mileage):
+        self.name = name
+        self.max_speed = max_speed
+        self.mileage = mileage
+
+    def seating_capacity(self, capacity):
+        return f"The seating capacity of a {self.name} is {capacity} passengers"
+
+class Bus(Vehicle):
+    def seating_capacity(self, capacity=50):
+        return super().seating_capacity(capacity=50)
+
+the_bus = Bus("Intercape", 50)
+print(the_bus.seating_capacity())
+
+
