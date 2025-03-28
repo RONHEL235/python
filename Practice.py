@@ -1260,19 +1260,29 @@ Use the following code for your parent Vehicle class.
 """
 
 class Vehicle:
+    #Attributes fo the class
     def __init__(self, name, max_speed, mileage):
         self.name = name
         self.max_speed = max_speed
         self.mileage = mileage
 
+    #Methods of the class
     def seating_capacity(self, capacity):
         return f"The seating capacity of a {self.name} is {capacity} passengers"
 
-class Bus(Vehicle):
+
+#Create a class that inherits or uses the attributes and methods of the above class
+class Bus(Vehicle): #As soon as I use inheritance here, everything now becomes available for the Bus class.
+
     def seating_capacity(self, capacity=50):
+        #The 'super()' is used to give access to the methods and properties of the parent of sibling class. 
         return super().seating_capacity(capacity=50)
+    
+    #We only take what we need from the Parent class.
 
 the_bus = Bus("Intercape", 50)
 print(the_bus.seating_capacity())
+
+#Exercise 5: 
 
 
