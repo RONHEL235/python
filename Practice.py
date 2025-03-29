@@ -1317,7 +1317,7 @@ What the frick do I want mara?
 
 #Use the following code for this exercise.
 
-class Vehicle:
+"""class Vehicle:
 
     #Class Attribute
     color = "White"
@@ -1340,3 +1340,37 @@ class Car(Vehicle):
 school_bus = Bus("Volvo", 180, 20)
 #Color can be called from anywhere or by any class
 print(school_bus.color, school_bus.max_speed)
+
+car = Car("Polo TSI R-Line", 300, 300)
+print(car.color, car.max_speed)
+"""
+
+#OOP Exercise 6: Class Inheritance
+
+#Given:
+
+#Create a Bus child class that inherits from the Vehicle class. The default fare charge of any vehicle is seating capacity * 100. If Vehicle is Bus instance, we need to add an extra 10% on full fare as a maintenance charge. So total fare for bus instance will become the final amount = total fare + 10% of the total fare.
+
+#Note: The bus seating capacity is 50. so the final fare amount should be 5500. You need to override the fare() method of a Vehicle class in Bus class.
+
+#Use the following code for your parent Vehicle class. We need to access the parent class from inside a method of a child class.
+
+class Vehicle:
+    def __init__(self, name, mileage, capacity):
+        self.name = name
+        self.mileage = mileage
+        self.capacity = capacity
+
+    def fare(self):
+        return self.capacity * 100
+
+class Bus(Vehicle):
+    def fare(self):
+        amount = super().fare() #The 'super().fare()' represents the attributes and methods from the parent class. The 'super()' is what helps us get them. If we would have left out the 'super()', we would only be getting this from the 
+        amount += amount * 10 / 100
+        return amount 
+
+School_bus = Bus("School Volvo", 12, 50)
+print("Total Bus fare is:", School_bus.fare())
+
+#Its simple, a class inherits right. Yes but when one of the methods has to change due to some rule or change, you have to re-write the whole method, the same way but with the modifications inside. 
