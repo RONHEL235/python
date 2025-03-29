@@ -1307,6 +1307,9 @@ The one thing I need to do is calm my nervous system.
 Its always when I am doing the mundane that they hit me. I am fighting myself so bad right now. I need to be in a state of no thinking, a state of no abundance. But my mind always takes me there. I think... I think therefore I am. How about, I am, therefore I think.  
 """
 
+"""
+What the frick do I want mara?
+"""
 
 
  
