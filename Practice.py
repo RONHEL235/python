@@ -1355,7 +1355,7 @@ print(car.color, car.max_speed)
 
 #Use the following code for your parent Vehicle class. We need to access the parent class from inside a method of a child class.
 
-class Vehicle:
+"""class Vehicle:
     def __init__(self, name, mileage, capacity):
         self.name = name
         self.mileage = mileage
@@ -1371,6 +1371,10 @@ class Bus(Vehicle):
         return amount 
 
 School_bus = Bus("School Volvo", 12, 50)
-print("Total Bus fare is:", School_bus.fare())
+print("Total Bus fare is:", School_bus.fare())"""
 
 #Its simple, a class inherits right. Yes but when one of the methods has to change due to some rule or change, you have to re-write the whole method, the same way but with the modifications inside. 
+
+"""
+I am leaving this town I swear. 
+"""
