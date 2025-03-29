@@ -1301,4 +1301,14 @@ Definitely making time for me everyday.
 I am afraid that I will never find my true calling. I doubt everything. I dought everything I try to do. I am afraid that It will fade away into space and not exist any more. The introduction of Artificial Intelligence made it so worse.  I want to do them all, everything, every one of them, what ever you consider artistic, I need to do it. Now am even wanting to dive into AI because its the current thing and apparently people are making so much money. Most times when thoughts like this come across my mind I try to think of when I was young and ask myself 'What did I like doing?'. I have always been self conscious from a young age I guess. I guess my art form is int the likes of self expression. I was not always wordy, so I guess anything that has to do with words would be a good start.      
 """
 
+"""
+The one thing I need to do is calm my nervous system.
+
+Its always when I am doing the mundane that they hit me. I am fighting myself so bad right now. I need to be in a state of no thinking, a state of no abundance. But my mind always takes me there. I think... I think therefore I am. How about, I am, therefore I think.  
+"""
+
+
+
+ 
+
 
