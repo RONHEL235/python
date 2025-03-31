@@ -1382,3 +1382,12 @@ I am leaving this town I swear.
 """
 This was fun.
 """
+
+#Monday [20:51]
+# 31 March 2025
+
+#No code, just mumble rap. 
+
+"""
+I choose to create. I choose to create nations. 
+"""
