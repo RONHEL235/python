@@ -1411,3 +1411,7 @@ More imagining, less thinking.
 """
 More writing, less typing (Writing on my notebook, after this)
 """
+
+"""
+Going to the fast food restaurant is the best thing that has happened to me today, thank you.
+"""
