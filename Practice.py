@@ -1395,3 +1395,7 @@ I choose to create. I choose to create nations.
 """
 I understand that I have a septum piercing. 
 """
+
+"""
+I am creating rituals now, no routine.
+"""
