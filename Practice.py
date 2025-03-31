@@ -1407,3 +1407,7 @@ More books, less social media.
 """
 More imagining, less thinking.
 """
+
+"""
+More writing, less typing (Writing on my notebook, after this)
+"""
