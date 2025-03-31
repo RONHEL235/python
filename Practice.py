@@ -1403,3 +1403,7 @@ I am creating rituals now, no routine.
 """
 More books, less social media.
 """
+
+"""
+More imagining, less thinking.
+"""
