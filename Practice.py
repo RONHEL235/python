@@ -1399,3 +1399,7 @@ I understand that I have a septum piercing.
 """
 I am creating rituals now, no routine.
 """
+
+"""
+More books, less social media.
+"""
