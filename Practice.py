@@ -1415,3 +1415,10 @@ More writing, less typing (Writing on my notebook, after this)
 """
 Going to the fast food restaurant is the best thing that has happened to me today, thank you.
 """
+
+#Thursday [23:07]
+#03 April 2025
+
+""" 
+I wrote a letter to my younger self today.
+"""
