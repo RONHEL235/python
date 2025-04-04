@@ -1441,3 +1441,7 @@ Have I been confused? Why can I not just say I do not wan to feel like this no m
 """
 Why are you not leaning more towards the things that bring you joy?
 """
+
+"""
+When ever I think I need to not let myself continue further.
+"""
