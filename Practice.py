@@ -1476,3 +1476,9 @@ Like I said, there is so much to do and I have plenty of time and attention to s
 """
 I get better and better. Healthy, wiser, present. 
 """
+
+"""
+Okay how about a short story. A person battles with what seems to be "What to do". What the fuck is this, they ask. He si till asking till this very day. 
+
+Fin
+"""
