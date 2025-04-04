@@ -1430,3 +1430,6 @@ I wrote a letter to my younger self today.
 Hi. I know that I have been writing instead of writing code here, I have been coding a learning on the FreeCodeCamp.
 """
 
+"""
+I want to live in writing, reading and speaking forever.
+"""
