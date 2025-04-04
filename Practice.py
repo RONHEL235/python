@@ -1468,3 +1468,7 @@ Me, in my room the whole day. Reading and writing and reading aloud. Well rested
 """
 The focus at most is not the masses, but to liberate the masses. (What?!)
 """
+
+"""
+Like I said, there is so much to do and I have plenty of time and attention to spend.
+"""
