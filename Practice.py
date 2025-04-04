@@ -1460,3 +1460,7 @@ I need to get this commits daily. Never stopping, never resting. Obsessively con
 """
 I am so interested in everything, I need to learn every and anything that will ensure I understand myself and the world a lot more better. 
 """
+
+"""
+Me, in my room the whole day. Reading and writing and reading aloud. Well rested, making healthy and nutritious meals, burning bushes, obsessed, right by the sea. Wardrobe full of vintage clothing. Body, Mind and Spirit at peace. Mushrooms in bulk (not the regular). Vinyls in abundance.   
+"""
