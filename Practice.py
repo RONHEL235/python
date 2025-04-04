@@ -1464,3 +1464,7 @@ I am so interested in everything, I need to learn every and anything that will e
 """
 Me, in my room the whole day. Reading and writing and reading aloud. Well rested, making healthy and nutritious meals, burning bushes, obsessed, right by the sea. Wardrobe full of vintage clothing. Body, Mind and Spirit at peace. Mushrooms in bulk (not the regular). Vinyls in abundance.   
 """
+
+"""
+The focus at most is not the masses, but to liberate the masses. (What?!)
+"""
