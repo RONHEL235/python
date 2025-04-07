@@ -1482,3 +1482,18 @@ Okay how about a short story. A person battles with what seems to be "What to do
 
 Fin
 """
+
+#Monday [15:10]
+#07 April 2025
+
+#Testing and Documentation 
+
+#5. Understand the concepts of testing and the documentation of Python programming solutions.
+
+#5.1 Critically review and test an object-oriented programming solution. 
+
+#5.2 Analyse actual test results against expected results to identify discrepancies.
+
+#5.3 Evaluate independent feedback on a developed object-oriented programme solution and make recommendations for improvements.
+
+#5.4 Creating documentation in Python.
