@@ -1500,3 +1500,6 @@ Fin
 
 #BE AFRAID
 
+"""
+That time spent in the kitchen, grinding the cabbage manually and washing the dishes was the one of the best times in my life.
+"""
