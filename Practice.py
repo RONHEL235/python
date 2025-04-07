@@ -1503,3 +1503,7 @@ Fin
 """
 That time spent in the kitchen, grinding the cabbage manually and washing the dishes was the one of the best times in my life.
 """
+
+"""
+Spending more time with myself is a huge priority right now.
+"""
