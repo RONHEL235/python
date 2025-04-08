@@ -1530,3 +1530,5 @@ Seventh and I am done.
 #Greatful for the good food and water.
 
 #Greatful for the knowledge and understanding. 
+
+#Greatful for the people that surround me, there is abundance everywhere.
