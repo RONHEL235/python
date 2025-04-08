@@ -1527,4 +1527,6 @@ Seventh and I am done.
 
 #My niece did successfully completed her first day fo Kinder garden today.
 
-#Greatful for the good food and water. 
+#Greatful for the good food and water.
+
+#Greatful for the knowledge and understanding. 
