@@ -1525,4 +1525,6 @@ Seventh and I am done.
 
 #Greatful to have done work today.
 
-#My niece did successfully completed her first day fo Kinder garden today. 
+#My niece did successfully completed her first day fo Kinder garden today.
+
+#Greatful for the good food and water. 
