@@ -1533,4 +1533,6 @@ Seventh and I am done.
 
 #Greatful for the people that surround me, there is abundance everywhere.
 
-#The ideas: The Website theory.
+#Greatful for the ideas: The Website theory.
+
+#Greatful for waking up and continuing to do great.
