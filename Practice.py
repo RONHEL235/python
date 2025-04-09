@@ -1547,3 +1547,5 @@ Seventh and I am done.
 #I am reading The Intellectual By AdSallenger and this is the book I have been looking for all my life. 
 
 #<3
+
+#Truth be told, I am still struggling with Love.
