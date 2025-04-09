@@ -1543,3 +1543,5 @@ Seventh and I am done.
 #A good day, forever.
 
 #Reed Richards is apparently the smartest superhero of all time. I need to check him out.
+
+#I am reading The Intellectual By AdSallenger and this is the book I have been looking for all my life. 
