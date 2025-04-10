@@ -1568,3 +1568,5 @@ Seventh and I am done.
 #I am thankful for the average I got in networking security. I am grateful.
 
 #It's actually spelled grateful.
+
+#Pushing myself everyday. Learning everyday. The only competition that exists is with myself.
