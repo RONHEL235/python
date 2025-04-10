@@ -1565,4 +1565,6 @@ Seventh and I am done.
 
 #I forgive myself for going astray. 
 
-#I am thankful for the average I got in networking security. I am greatful.
+#I am thankful for the average I got in networking security. I am grateful.
+
+#It's actually spelled grateful.
