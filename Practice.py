@@ -1562,3 +1562,5 @@ Seventh and I am done.
 #I am going to start my night and morning routine today.
 
 #I am so happy to be fasting again, I will last longer this time.
+
+#I forgive myself for going astray. 
