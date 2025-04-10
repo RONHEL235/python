@@ -1570,3 +1570,5 @@ Seventh and I am done.
 #It's actually spelled grateful.
 
 #Pushing myself everyday. Learning everyday. The only competition that exists is with myself.
+
+#Hence why I love the early mornings so much. 4am to 6am are me. 
