@@ -1572,3 +1572,5 @@ Seventh and I am done.
 #Pushing myself everyday. Learning everyday. The only competition that exists is with myself.
 
 #Hence why I love the early mornings so much. 4am to 6am are me. 
+
+#I need to go back to me, home.
