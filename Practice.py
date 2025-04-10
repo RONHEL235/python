@@ -1564,3 +1564,5 @@ Seventh and I am done.
 #I am so happy to be fasting again, I will last longer this time.
 
 #I forgive myself for going astray. 
+
+#I am thankful for the average I got in networking security. I am greatful.
