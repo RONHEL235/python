@@ -1574,3 +1574,8 @@ Seventh and I am done.
 #Hence why I love the early mornings so much. 4am to 6am are me. 
 
 #I need to go back to me, home.
+
+#Saturday [21:56]
+#12 April 2025
+
+#main aim is aesthetics.
