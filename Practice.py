@@ -1591,3 +1591,5 @@ Seventh and I am done.
 #I win.
 
 #The moon is full, its a good time to pray.
+
+#I am going to talk to God in a few hours time.
