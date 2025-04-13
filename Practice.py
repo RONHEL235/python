@@ -1601,3 +1601,5 @@ Seventh and I am done.
 #Hi. I did talk to God early morning today and it was amazing. 
 
 #Spinner by Portico Quartet. F*ck!
+
+#Favorite band of all time at the momemt. 
