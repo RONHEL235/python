@@ -1602,4 +1602,6 @@ Seventh and I am done.
 
 #Spinner by Portico Quartet. F*ck!
 
-#Favorite band of all time at the momemt. 
+#Favorite band of all time at the moment. 
+
+#I win. At all costs. I win. I win. I win. I win. I win. I win. I win. I win. That is what I do.
