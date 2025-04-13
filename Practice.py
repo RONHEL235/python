@@ -1614,4 +1614,6 @@ Seventh and I am done.
 
 #I am going to listen to Spinner by Portico Quartet forever.
 
-#Elite mindset. Body of an Athlete. Soul of God. Character of a Gentleman. Style of 90's Michael Jordan. Healthy Mind. Healthy body. Healthy Soul.  
+#Elite mindset. Body of an Athlete. Soul of God. Character of a Gentleman. Style of 90's Michael Jordan. Healthy Mind. Healthy body. Healthy Soul. 
+
+#I am a God. I am a God. I am a God. I am a God. I am a God. I am a God. I am a God.  
