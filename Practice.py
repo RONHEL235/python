@@ -1665,3 +1665,5 @@ print(f'\nDecrypted text: {decryption}\n')
 #Hi again. I seem to have a parasite within me at the moment. Its know as the flu parasite. My body just needs to adjust and adapt though because I am stopping for no one. I am Graduating in 2026 with Summa Cum laude status.
 
 #Summa Cum laude is a latin phrase that means "with highest honor" or "with highest praise". 
+
+#There is a ton to do, and I will achieve it all while remain the number 1 Top Achiever for Eduvos in 2025. I am the pressure. I am the pressure to my academics. My academics fear me. No the other way around. The Python Programming modules does not love to see me coming. The Software Engineering module does not love to see me coming. The Security for Software Engineers modules does not. I am the greatest to ever do it in Eduvos and that is evident. I apologize for not going bigger with my tests and that one assignment and one group project.   
