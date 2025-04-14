@@ -1671,3 +1671,5 @@ print(f'\nDecrypted text: {decryption}\n')
 #Workaholic. 
 
 #I feel more in control of myself as of late. There is purpose in each and every movement in my limbs. You can see the energy. I am different. I am evolving. I am growing. And those around me are growing as well. My Mother is evolving and becoming the Queen she has invariably been. My Sister, the Princess. Working on herself at all times and evolving as an amazing mother and sister. As the Prince, I am proud of my family and what we have endured and conquered. We are still doing great and amazing and it will forever be so. The King is resting and I am proud to call him my father. He did good, no he did great, he did amazing. Thank you so much. I love you.    
+
+#I am going to call it a night and drift to the sacred place now. 
