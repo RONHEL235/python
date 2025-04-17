@@ -1732,3 +1732,10 @@ The x passed inside the above function is the same as the one in the lambda func
 
 The x * 2 is the expression inside the function 
 """
+
+#More information about the Lambda function: The name of the function is witten like how you would write a variable. And the calm is the same as a regular traditional function call.  
+"""
+function = lambda x: x * 2
+
+function(2) 
+""" 
