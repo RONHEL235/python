@@ -1624,7 +1624,7 @@ Seventh and I am done.
 
 #String manipulation by building a Cipher.
 
-text = 'mrttaqrhknsw ih puggrur'
+"""text = 'mrttaqrhknsw ih puggrur'
 custom_key = 'python'
 
 def vigenere(message, key, direction=1):
@@ -1660,6 +1660,7 @@ print(f'\nEncrypted text: {text}')
 print(f'Key: {custom_key}')
 decryption = decrypt(text, custom_key)
 print(f'\nDecrypted text: {decryption}\n')
+"""
 
 #[22:06]
 #Hi again. I seem to have a parasite within me at the moment. Its know as the flu parasite. My body just needs to adjust and adapt though because I am stopping for no one. I am Graduating in 2026 with Summa Cum laude status.
@@ -1684,7 +1685,7 @@ The Luhn Algorithm is widely used for error-checking in various applications, su
 By building this project, you'll gain experience working with numerical computations and string manipulation.
 """
 
-def verify_card_number(card_number):
+"""def verify_card_number(card_number):
     sum_of_odd_digits = 0
     card_number_reversed = card_number[::-1]
     odd_digits = card_number_reversed[::2]
@@ -1714,6 +1715,7 @@ def main():
         print('INVALID!')
 
 main()
+"""
 
 #The Lambda Function 
 
