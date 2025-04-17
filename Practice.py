@@ -1714,3 +1714,21 @@ def main():
         print('INVALID!')
 
 main()
+
+#The Lambda Function 
+
+#Its a type of a function that uses a faster way of writing a traditional function.
+
+"""
+lambda x : x * 2 - (expression)
+"""
+
+"""
+x represents the parameter that is going to be passes in. Just how in the traditional way of writing a function: 
+
+def function (x):
+    x * 2 - (expression)
+The x passed inside the above function is the same as the one in the lambda function. 
+
+The x * 2 is the expression inside the function 
+"""
