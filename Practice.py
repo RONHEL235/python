@@ -1673,3 +1673,44 @@ print(f'\nDecrypted text: {decryption}\n')
 #I feel more in control of myself as of late. There is purpose in each and every movement in my limbs. You can see the energy. I am different. I am evolving. I am growing. And those around me are growing as well. My Mother is evolving and becoming the Queen she has invariably been. My Sister, the Princess. Working on herself at all times and evolving as an amazing mother and sister. As the Prince, I am proud of my family and what we have endured and conquered. We are still doing great and amazing and it will forever be so. The King is resting and I am proud to call him my father. He did good, no he did great, he did amazing. Thank you so much. I love you.    
 
 #I am going to call it a night and drift to the sacred place now. 
+
+
+#Thursday [13:54]
+#17 April 2025
+
+"""
+The Luhn Algorithm is widely used for error-checking in various applications, such as verifying credit card numbers.
+
+By building this project, you'll gain experience working with numerical computations and string manipulation.
+"""
+
+def verify_card_number(card_number):
+    sum_of_odd_digits = 0
+    card_number_reversed = card_number[::-1]
+    odd_digits = card_number_reversed[::2]
+
+    for digit in odd_digits:
+        sum_of_odd_digits += int(digit)
+
+    sum_of_even_digits = 0
+    even_digits = card_number_reversed[1::2]
+    for digit in even_digits:
+        number = int(digit) * 2
+        if number >= 10:
+            number = (number // 10) + (number % 10)
+        sum_of_even_digits += number
+    total = sum_of_odd_digits + sum_of_even_digits
+    print(total)
+    return total % 10 == 0
+
+def main():
+    card_number = '4111-1111-4555-1141'
+    card_translation = str.maketrans({'-': '', ' ': ''})
+    translated_card_number = card_number.translate(card_translation)
+
+    if verify_card_number(translated_card_number):
+        print('VALID!')
+    else:
+        print('INVALID!')
+
+main()
