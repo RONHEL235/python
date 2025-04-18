@@ -1760,3 +1760,5 @@ function(2)
 #Not much done today though. But I am making progress. I am always making progress, whether its academically or personally. My mind is something else. If you want to talk about instruments, my mind is one. The biggest one of them all. 
 
 #I move differently. I move uniquely. I move immaculately. I am wealth orientated. I am health orientated. I am energy orientated. I am wisdom orientated. I am intellectually orientated. I am healthy spiritually, mentally and physically. 
+
+#I am abundant. I have to focus of what I have, not the lack. I think that, by definition is joy. I have to focus of what is present in my life at this current moment. There are so many to grateful.
