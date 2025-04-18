@@ -1749,3 +1749,8 @@ function(2)
 #I have not been grateful all my life. I have not. For me to even think about that brings me great sadness. I had a great case of cognitive dissonance. My whole life has been me calling for the amazing things that have been coming my way and what did I do? Throw it all away like that? From now onwards everything is a blessing. From me waking up in the morning, to my niece crying aloud and creating noise that my ears cannot handle, to me sweeping the floor in the morning and talking to myself like I am "crazy", to my mother sending me to the shops to go buy bread as a twenty-four year old, to me learning these complex and intricate and challenging concepts about Software Engineering. Everything is a friken blessing and do not ever get that twisted. The abundance does not end, it does not. There is so much to be grateful about on a moment to moment basis.  
 
 #I am going to talk to God in a few hours time, lucky me.
+
+#Friday [19:56]
+#18 April 2025
+
+#Hi. More than anything, God talks to us through the music. That was a great talk. I will talk to him again tomorrow in the early morning.
