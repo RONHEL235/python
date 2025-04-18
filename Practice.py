@@ -1756,3 +1756,5 @@ function(2)
 #Hi. More than anything, God talks to us through the music. That was a great talk. I will talk to him again tomorrow in the early morning.
 
 #Lund Quartet. That is how I talked to God today.
+
+#Not much done today though. But I am making progress. I am always making progress, whether its academically or personally. My mind is something else. If you want to talk about instruments, my mind is one. The biggest one of them all. 
