@@ -1762,3 +1762,5 @@ function(2)
 #I move differently. I move uniquely. I move immaculately. I am wealth orientated. I am health orientated. I am energy orientated. I am wisdom orientated. I am intellectually orientated. I am healthy spiritually, mentally and physically. 
 
 #I am abundant. I have to focus of what I have, not the lack. I think that, by definition is joy. I have to focus of what is present in my life at this current moment. There are so many to grateful.
+
+#I am thinking of writing stories so that I can train and expand my imagination. 
