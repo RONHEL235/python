@@ -1758,3 +1758,5 @@ function(2)
 #Lund Quartet. That is how I talked to God today.
 
 #Not much done today though. But I am making progress. I am always making progress, whether its academically or personally. My mind is something else. If you want to talk about instruments, my mind is one. The biggest one of them all. 
+
+#I move differently. I move uniquely. I move immaculately. I am wealth orientated. I am health orientated. I am energy orientated. I am wisdom orientated. I am intellectually orientated. I am healthy spiritually, mentally and physically. 
