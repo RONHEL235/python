@@ -1764,3 +1764,5 @@ function(2)
 #I am abundant. I have to focus of what I have, not the lack. I think that, by definition is joy. I have to focus of what is present in my life at this current moment. There are so many to grateful.
 
 #I am thinking of writing stories so that I can train and expand my imagination. 
+
+#I am making progress and that is all that matters.
