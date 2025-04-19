@@ -1774,3 +1774,5 @@ function(2)
 #Hi. It has been a really positive day this far, so far so good.
 
 #Pantheon is a really good series. 
+
+#Let's focus on the good.
