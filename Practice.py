@@ -1776,3 +1776,5 @@ function(2)
 #Pantheon is a really good series. 
 
 #Let's focus on the good.
+
+#Uploaded Intelligence. Would I upload myself to the cloud?
