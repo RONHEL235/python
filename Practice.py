@@ -1781,4 +1781,6 @@ function(2)
 
 #I have deleted all social media and have been listening to a lot of Quartets as of late: Portico Quartet and Lund Quartet. The best Quartets I know thus far. The greatest. 
 
-#I am making progress and that is all that matters. At this point in my life I just want to be happy at all times hence why the positive mindset. All that si happening right now is good. All good is happening to me. I choose good. I chose joy. This is good. This is amazingly good. I swear, I promise.  
+#I am making progress and that is all that matters. At this point in my life I just want to be happy at all times hence why the positive mindset. All that si happening right now is good. All good is happening to me. I choose good. I chose joy. This is good. This is amazingly good. I swear, I promise.
+
+#I will continue to work hard every moment. I will continue to be excellent with each and every moment. I will choose progress over everything.  
