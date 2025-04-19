@@ -1778,3 +1778,5 @@ function(2)
 #Let's focus on the good.
 
 #Uploaded Intelligence. Would I upload myself to the cloud?
+
+#I have deleted all social media and have been listening to a lot of Quartets as of late: Portico Quartet and Lund Quartet. The best Quartets I know thus far. The greatest. 
