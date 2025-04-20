@@ -1845,3 +1845,5 @@ def main():
 #I will keep going. 
 
 #One thing about me is that I understand that I will succeed. I understand that I have succeeded. I just need to go claim my success by working hard every day. 
+
+#I felt sorry for you guys that I was going to make it alone, that is why I let myself fall on purpose. But that was the lesson and I forgave myself. Right now I move with self understanding, knowledge and Love. I choose to be optimistic. I choose to focus on progress.  
