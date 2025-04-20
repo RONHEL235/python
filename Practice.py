@@ -1843,3 +1843,5 @@ def main():
 #I will never stop.
 
 #I will keep going. 
+
+#One thing about me is that I understand that I will succeed. I understand that I have succeeded. I just need to go claim my success by working hard every day. 
