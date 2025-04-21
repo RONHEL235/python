@@ -1864,4 +1864,6 @@ def main():
 
 #I am currently writing clean code personally. Takes a lot of focus and being right here in this moment. A lot of attention is going to have to be paid for one to attain clean code. Now this where the importance of observing oneself comes handy. The moment I realize that there is a lot more to be done for me to achieve mastery, some would have wanted to leave the mastery journey right there because of "too much work". But not me, this is the chance for me to grow, to prove thyself. I will not hesitate. I will never shake. I will never hesitate. I will stand strong throughout my success journey. Why would I shake when i understand that I have already won? 
 
-#I am chewing this gum like my life depends on it right now. Just focusing on my progress.        
+#I am chewing this gum like my life depends on it right now. Just focusing on my progress.   
+
+#Faith and Believe.     
