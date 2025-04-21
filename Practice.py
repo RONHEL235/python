@@ -1850,4 +1850,10 @@ def main():
 
 #Today is the best day ever and it is going to keep getting better and better. Tomorrow is the best day ever and it is going to keep getting better and better.
 
-#I am making too much energy because I am valuable. I provide value in all that I engage in.  
+#I am making too much energy because I am valuable. I provide value in all that I engage in. 
+
+
+#Monday [18:03]
+#21 April 2025
+
+#Right now what really matters is my ignorance of my thinking. Not a lot done today in terms of academical work but I did put in that personal work. When it comes to judging me, I wont do it. I have to continue like I ma doing right now and remember I. I need to keep remembering me and what my intentions are at all times.
