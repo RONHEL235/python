@@ -1858,4 +1858,6 @@ def main():
 
 #Right now what really matters is my ignorance of my thinking. Not a lot done today in terms of academical work but I did put in that personal work. When it comes to judging me, I wont do it. I have to continue like I ma doing right now and remember I. I need to keep remembering me and what my intentions are at all times.
 
-#I need to keep on at all times no matter how I feel. No more dwelling on the feelings and emotions and regret and all that not so positive jazz. I understand that I am heading towards wealth and top achiever status. I understand that I am clocking in enormous progress on a daily. 
+#I need to keep on at all times no matter how I feel. No more dwelling on the feelings and emotions and regret and all that not so positive jazz. I understand that I am heading towards wealth and top achiever status. I understand that I am clocking in enormous progress on a daily.
+
+#I have been reading the book "Clean Code" which is essentially about keeping code "clean". Now there are many definitions of "clean code" from many authors and programers, but the highlight is code that is readable, can be changed and is well taken care of, or where the writer of the code has showed much care for the code adn the craft itself.     
