@@ -1875,3 +1875,6 @@ def main():
 #23 April 2025
 
 #Hi its wednesday and I definitely talking to God tomorrow and its going to be amazing, I promise.
+
+#The card did not go through, twice. I feel embarrassed. 
+
