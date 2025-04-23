@@ -1882,4 +1882,6 @@ def main():
 
 #Today has been so productive and tomorrow is going to be even more productive.
 
-#I have so much money in my bank account that its so overwhelming at times. So much money and it just keeps coming in.  
+#I have so much money in my bank account that its so overwhelming at times. So much money and it just keeps coming in.
+
+#I can do what I want basically.  
