@@ -1878,3 +1878,4 @@ def main():
 
 #The card did not go through, twice. I feel embarrassed. 
 
+#Fuck. Fuck. Fuck. Fuck. Fuck. Fuck. Fuck. Fuck. Fuck. Fuck. Fuck. Fuck. Fuck. Fuck. Fuck.
