@@ -1901,4 +1901,6 @@ def main():
 
 #I need to decipher all this into hourly, daily, weekly, monthly achievements.
 
-#No worries, I get right back. I start right now.     
+#No worries, I get right back. I start right now. 
+
+#I have more to do. Slow is the new way of living. Slow down. Slow the fuck down. Breathe.     
