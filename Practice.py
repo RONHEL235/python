@@ -1941,3 +1941,19 @@ If you're looking for a strategy to overcome information overload and enhance yo
 Does this resonate with you, or would you prefer a different approach or book recommendation?
 """
 
+#Thank you, do you have a more novel genre recommendation? 
+"""
+You're welcome!
+Since you’re asking for something a bit more novel, something that still feeds your ambition but through a different style, a book that immediately comes to mind is:
+
+"The Alchemist" by Paulo Coelho.
+
+It’s a novel — a story — but it’s deeply motivational without being a traditional self-help book. It’s about following your "Personal Legend" (your unique destiny), trusting your journey, staying resilient through challenges, and finding fulfillment and joy even while chasing big dreams.
+
+It’s beautiful because it speaks directly to people like you: ambitious, dream-driven, and wanting both success and happiness without losing yourself along the way.
+The story is simple but powerful — and every time you read it, you’ll pull out new lessons depending on where you are in life.
+
+If you read it religiously (like you mentioned), it can constantly realign you when you feel overwhelmed or distracted.
+
+Would you like me to also suggest a second "novel but practical" recommendation too, just in case you want a backup? 🎯
+"""
