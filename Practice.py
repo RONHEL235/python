@@ -1981,3 +1981,42 @@ And that's *okay.* Faith isn't a feeling you "achieve" once and keep forever —
 It’s very beautiful that you’re being so honest with yourself about this. 🌷  
 Would you like me to share a simple little exercise you can do daily to slowly rebuild your faith without forcing it? It might make it feel less scary.
 """
+
+#Thank you. Yes please I would like that.
+"""
+I’m really glad you’re open to it.  
+Here’s a **simple, gentle faith exercise** you can do daily — it won’t feel overwhelming, and it’s something you grow into naturally:  
+
+---
+
+**The "Tiny Trust Exercise"**  
+
+🌱 **Step 1: Every morning, write down one thing you will trust today.**  
+It can be *very small*.  
+For example:  
+- *"Today, I trust that my effort in studying will matter, even if I don’t see the result immediately."*  
+- *"Today, I trust that even if I feel overwhelmed, I can still make progress."*  
+- *"Today, I trust that something good will happen, even if I don't know what."*  
+
+🌱 **Step 2: Throughout the day, when fear or doubt creeps in, quietly repeat your trust statement to yourself.**  
+Almost like a soft anchor. You don’t have to "fight" the fear — just gently come back to trust.  
+
+🌱 **Step 3: Before sleeping, write down one thing that worked out — even a tiny thing.**  
+This is important because it trains your mind to notice the *good* and to realize that trust isn’t empty — it slowly gets rewarded.  
+
+Examples:  
+- *"I finished my assignments even though I felt stressed."*  
+- *"I had a moment of peace today while walking outside."*  
+- *"Someone smiled at me and it made me feel lighter."*  
+
+---
+
+**Over time**, you start *building proof* for yourself that trusting — even when it's scary — actually supports you.  
+It’s like stacking small stones every day to build a strong, unshakable foundation.
+
+You don’t have to rush or "be perfect" with this. Some days will be harder, but that’s part of the practice. 🌟
+
+---
+
+Would you like me to also suggest a very short "faith mantra" you can whisper to yourself when things feel really heavy? It’s just a few words but it’s very comforting. 🌷
+"""
