@@ -2134,3 +2134,5 @@ Would you like me to send that too? (No pressure — only if it would help.)
 #What I love about my days is the focus I put on being an authentic creator.
 
 #I may not have did the things that I was supposed to do within the holidays, but I will continue to push the body further. I will continue to change my brain (Neuroplasticity). 
+
+#I will keep winning. Academically, personally, physically, mentally and spiritually. I will evolve into the most authentic being. I will evolve into the most deeply rooted human being. Deeply rooted in myself, values, principles and rules. 
