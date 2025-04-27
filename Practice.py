@@ -2139,4 +2139,6 @@ Would you like me to send that too? (No pressure — only if it would help.)
 
 #Now let me tell you something about me. I am amazing. I am hard working. I keep making my mother proud, I am making my family proud. I will keep making my mother proud and I will keep making my family proud.
 
-#My gut will always tell me when I am doing something not in line with my goals. Just like how it has been telling me that I have not been too consistent when it comes to my studies. But I breathe. I understand that I will conquer all. I believe in self. I trust in self. I have done it before, I will do it again. Let me save some for my note book.   
+#My gut will always tell me when I am doing something not in line with my goals. Just like how it has been telling me that I have not been too consistent when it comes to my studies. But I breathe. I understand that I will conquer all. I believe in self. I trust in self. I have done it before, I will do it again. Let me save some for my note book. 
+
+#The consistency has been too good. I love how consistent I have been. I will continue to be consistent. I will continue to be great.
