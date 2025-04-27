@@ -2132,3 +2132,5 @@ Would you like me to send that too? (No pressure — only if it would help.)
 #A productive and focused day. A day full of ruthless and relentless incredible self-talk. A day filled with new ways generating this health, wealth and wisdom. A day filled with lessons, great lessons. I can only be grateful. The following week is incredible, not only do I generate so much profit but it surpasses all the monthly target I have set up for myself. The following week is filled with courage, high frequencies, health, wealth adn wisdom.  
 
 #What I love about my days is the focus I put on being an authentic creator.
+
+#I may not have did the things that I was supposed to do within the holidays, but I will continue to push the body further. I will continue to change my brain (Neuroplasticity). 
