@@ -2136,3 +2136,5 @@ Would you like me to send that too? (No pressure — only if it would help.)
 #I may not have did the things that I was supposed to do within the holidays, but I will continue to push the body further. I will continue to change my brain (Neuroplasticity). 
 
 #I will keep winning. Academically, personally, physically, mentally and spiritually. I will evolve into the most authentic being. I will evolve into the most deeply rooted human being. Deeply rooted in myself, values, principles and rules. 
+
+#Now let me tell you something about me. I am amazing. I am hard working. I keep making my mother proud, I am making my family proud. I will keep making my mother proud and I will keep making my family proud.  
