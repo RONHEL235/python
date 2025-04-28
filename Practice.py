@@ -2142,3 +2142,10 @@ Would you like me to send that too? (No pressure — only if it would help.)
 #My gut will always tell me when I am doing something not in line with my goals. Just like how it has been telling me that I have not been too consistent when it comes to my studies. But I breathe. I understand that I will conquer all. I believe in self. I trust in self. I have done it before, I will do it again. Let me save some for my note book. 
 
 #The consistency has been too good. I love how consistent I have been. I will continue to be consistent. I will continue to be great.
+
+
+#Monday
+#28 April 2025
+
+#"I can't be sobber, U gotta stay high" - gunna
+
