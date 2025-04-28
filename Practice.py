@@ -2149,3 +2149,4 @@ Would you like me to send that too? (No pressure — only if it would help.)
 
 #"I can't be sobber, U gotta stay high" - gunna
 
+#I have been talking to myself now. You are witnessing greatness in 8k. 
