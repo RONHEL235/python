@@ -2155,4 +2155,6 @@ Would you like me to send that too? (No pressure — only if it would help.)
 
 #I alternate between Baby Keem and Lund & Portico Quartets. 
 
-#I alternate between France Freestyle by Baby Keem and Kulde & Youth by Lund Quartet and Portico Quartet respectfully 
+#I alternate between France Freestyle by Baby Keem and Kulde & Youth by Lund Quartet and Portico Quartet respectfully.
+
+#I am going to shave my head now and paint my nails, I am so exited. 
