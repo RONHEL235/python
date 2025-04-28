@@ -2160,3 +2160,22 @@ Would you like me to send that too? (No pressure — only if it would help.)
 #I am going to shave my head now and paint my nails, I am so exited. 
 
 #"I am 50 cent" - Baby Keem
+
+
+#In this project, you'll write a program that takes a string formatted in Camel Case or Pascal Case, then converts it into Snake Case.
+
+"""
+def convert_to_snake_case(pascal_or_camel_cased_string):
+    snake_cased_char_list = [
+        '_' + char.lower() if char.isupper()
+        else char
+        for char in pascal_or_camel_cased_string
+    ]
+
+    return ''.join(snake_cased_char_list).strip('_')
+
+def main():
+    print(convert_to_snake_case('aLongAndComplexString'))
+
+main()
+"""
