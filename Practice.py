@@ -2199,3 +2199,5 @@ main()
 #You all cannot do shit to me now, especially when I am listening to Spinner by Portico Quartet. 
 
 #I feel shitty for this stunt I am pulling right now. Using this as a diary entry instead of a writing actual code. Trust me I do. Is this marketing of just PR stunt? We'll see.
+
+#I feel like the is a lot expected from me by everyone and myself. I feel like everyone is breathing down my neck and the air is equated to expectation. I do like the attention though. At times it scares me and I start spiraling into not so positive vibrations but begin to calm down the moment I write. I do not trust no one. A while back I had a girlfriend that trusted and loved me so much that I saw it, trusted and felt it... nah just saw and trusted it, how can you feel something that you do not even know? Did I reciprocate? No. 
