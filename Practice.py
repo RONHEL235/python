@@ -2194,4 +2194,6 @@ main()
 
 #That whole book is my manifesto as from this moment forward. So many gems that I will share here as I dive even more into it.
 
-#I need to maintain this level of peace now. I need to maintain this level of authenticity now. I need to maintain this level of good. A lot of maintenance to be done. 
+#I need to maintain this level of peace now. I need to maintain this level of authenticity now. I need to maintain this level of good. A lot of maintenance to be done.
+
+#You all cannot do shit to me now, especially when I am listening to Spinner by Portico Quartet. 
