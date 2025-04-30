@@ -2202,4 +2202,6 @@ main()
 
 #I feel like the is a lot expected from me by everyone and myself. I feel like everyone is breathing down my neck and the air is equated to expectation. I do like the attention though. At times it scares me and I start spiraling into not so positive vibrations but begin to calm down the moment I write. I do not trust no one. A while back I had a girlfriend that trusted and loved me so much that I saw it, trusted and felt it... nah just saw and trusted it, how can you feel something that you do not even know? Did I reciprocate? No. 
 
-#There is also fear of the exams. I fear that I am preparing, but not to the extent that I expect myself to be preparing at. everyday I feel that I should go even way beyond the scope of what is my best.   
+#There is also fear of the exams. I fear that I am preparing, but not to the extent that I expect myself to be preparing at. everyday I feel that I should go even way beyond the scope of what is my best.  
+
+#All my commit descriptions feel like song tittles and this just one Endless album, no Frank Ocean.   
