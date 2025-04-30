@@ -2188,4 +2188,6 @@ main()
 
 #To talk to God everyday on some quality medium is the dream. 
 
-#Today morning I finally talked about one of my fears with pen to the paper and the emotion I experienced after that was too good of a feeling. I was too joyful to even talk about my fears. No solution, no strategy, just me talking about the type of fear I was experiencing and that was all I needed. 
+#Today morning I finally talked about one of my fears with pen to the paper and the emotion I experienced after that was too good of a feeling. I was too joyful to even talk about my fears. No solution, no strategy, just me talking about the type of fear I was experiencing and that was all I needed.
+
+#The Intellectual by AD Sallengers.
