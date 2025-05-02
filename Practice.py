@@ -2236,3 +2236,5 @@ main()
 #I have so much to say but for today, this is all I can give you 
 
 #Nay??
+
+#I am talking to Ruddy right now
