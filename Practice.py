@@ -2220,4 +2220,9 @@ main()
 
 #I only pass with distinctions of 80% and above only. 
 
-#Pressure is privilege. I am privileged with all the pressure that I am feeling. I welcome all of it with grace. I welcome all of it with enough abundance. I will continue to lead. i will continue to be a leader to the self first. I will continue to me my own leader. I do not need rule over others, i just need to rule over me first. I am Veronica Noir. I am Veronica Noir. I am Veronica Noir. I am the rule of the self before anything else.   
+#Pressure is privilege. I am privileged with all the pressure that I am feeling. I welcome all of it with grace. I welcome all of it with enough abundance. I will continue to lead. i will continue to be a leader to the self first. I will continue to me my own leader. I do not need rule over others, i just need to rule over me first. I am Veronica Noir. I am Veronica Noir. I am Veronica Noir. I am the rule of the self before anything else. 
+
+#Friday [20:26]
+#02 May 2025
+
+#Five of five   
