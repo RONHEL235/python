@@ -2355,6 +2355,15 @@ This hides the menu in small screens
 I lift up the state to the common parent component and pass it down using props. For larger apps I would Context API or state Management libraries like Redux or Zustand to manage shared state more efficiently.   
 """
 
+#A function that returns the largest number in an array
 
 
+"""
+function getMax (arr) {
+    return Math.max(..arr);
+}
+
+console.log(getMax([4, 9, 1, 20, 5]))
+"""
+ 
  
