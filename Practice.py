@@ -2365,5 +2365,32 @@ function getMax (arr) {
 
 console.log(getMax([4, 9, 1, 20, 5]))
 """
+
+
+#CSS Flexbox: Creating three boxes spaced evenly within a row
+
+"""
+<div class="flex-row">
+    <div class="box">1</div>
+    <div class="box">2</div>
+    <div class="box">3</div>
+</div>
+
+<style>
+    .flex-row {
+        display: flex;
+        justify-content: space-between; 
+    }
+
+    .box {
+        background-color: #4caf50;
+        padding: 20px;
+        color: white;
+        width: 100px;
+        text-align: center;
+    }
+</style>
+"""
+
  
  
