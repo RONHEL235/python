@@ -2291,3 +2291,50 @@ checkEvenOrOdd (7);
     }
 </style
 """
+
+#A function to reverse a string
+
+"""
+function reverseString (aString) {
+    return aString.split('').reverse().join('');
+}  
+
+console.log(reverseString("Ronee"));
+"""
+
+#DOM Manipulation: Changing the message to something else when clicked
+
+"""
+<p id="message"> Hello </p>
+<button onClick="changeText()"> Click Me </button>
+
+<script>
+    function changeText() {
+        document.getElementById("message").textContext = "Welcome Back!";    
+    }
+</script>
+ 
+"""
+
+#Using React(Hooks) to count the number of clicks using useState
+
+"""
+import React, {useState} from 'react';
+
+function ClickCounter() {
+    const [count, setCount] = useState(0);
+
+    return (
+        <div>
+            <p>You clicked {count} times</p>
+            <button onClick = {() = setCount(count + 1)}>
+                Click Me
+            </button>
+        </div>
+    ) 
+}
+"""
+
+
+
+ 
