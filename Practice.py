@@ -2335,6 +2335,18 @@ function ClickCounter() {
 }
 """
 
+#Media Queries
 
+#Media queries are CSS rules that apply styles based on screen size and type of device. They are used in responsive design to ensure that websites look good in different devices.
+
+"""
+@media (max-width: 600px) {
+    .menu {
+        display: none;
+    }
+}
+
+This hides the menu in small screens
+"""  
 
  
