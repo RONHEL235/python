@@ -2349,4 +2349,12 @@ function ClickCounter() {
 This hides the menu in small screens
 """  
 
+#How does one handle state in multiple components at the same time
+
+"""
+I lift up the state to the common parent component and pass it down using props. For larger apps I would Context API or state Management libraries like Redux or Zustand to manage shared state more efficiently.   
+"""
+
+
+
  
