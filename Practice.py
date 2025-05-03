@@ -2238,3 +2238,56 @@ main()
 #Nay??
 
 #I am talking to Ruddy right now
+
+
+#Saturday [16:30]
+#03 May 2025
+
+#Passing props inside a function using a React.
+
+"""
+function Greeting (props) {
+     return <h1> Hello, {props.name} </h1>;   
+}
+
+<Greeting name="Ronee" />
+"""
+
+#A function to check whether the argument passed is even or odd
+
+"""
+function checkEvenOrOdd (number) {
+    if (number % 2 == 0) {
+        console.log(number + "is Even");
+    } else {
+        console.log(number + "is Odd");
+    }
+}
+
+checkEvenOrOdd (7);
+"""
+
+#A button that hovers when clicked, or when the cursor is on it
+
+
+#<!-- HTML -->
+"""
+<button class="color-button">Click ME</button>
+"""
+
+#<!-- CSS -->
+"""
+<style>
+    .color-button {
+        background-color: red;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        cursor: pointer;  
+    }
+
+    .color-button:hover {
+        background-color: blue; 
+    }
+</style
+"""
