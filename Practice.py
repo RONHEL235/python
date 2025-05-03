@@ -2392,5 +2392,21 @@ console.log(getMax([4, 9, 1, 20, 5]))
 </style>
 """
 
- 
- 
+#React: Creating a toggle button that shows or hides some text
+
+"""
+import React, { useState } from 'react';
+
+function ToggleText() {
+    const [visible, setVisible] = useState(true);
+
+    return (
+        <div>
+            <button onClick={() = setVisible(!visible)}>
+                {visible? "Hide" : "Show"} Text
+            </button>
+            {visible && <p>This is some text!</p>} 
+        </div>
+    );
+}
+"""
