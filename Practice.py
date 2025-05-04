@@ -2441,3 +2441,5 @@ This tracks a number that can be increased or reset based on user actions.
 #Today is a really good day and I learned a lot about myself and I am grateful for that.
 
 #I am having the best weeks of my life and its going to keep getting better and better.
+
+#It's on me right now, all that I desire I have it right now. 
