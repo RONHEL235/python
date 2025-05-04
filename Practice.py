@@ -2410,3 +2410,27 @@ function ToggleText() {
     );
 }
 """
+
+
+#How would I explain Flexbox to a beginner
+
+"""
+Flexbox is a layout system that helps align and distribute items in a container
+
+It uses display: flex and properties like justify-content and align-items.
+
+Its great for creating vertical and horizontal layouts without using floats or positioning
+"""
+
+#React(Hooks): useState
+
+#The useState allows one to create a reactive variable in a functional component. It can be used to track things such as form inputs, toggle states, or counter values
+
+"""
+count [count, setCount] = useState(0);
+
+This tracks a number that can be increased or reset based on user actions.
+"""
+
+
+
