@@ -2439,3 +2439,5 @@ This tracks a number that can be increased or reset based on user actions.
 #It's Sunday and I spend the whole day working on my nephews project. 
 
 #Today is a really good day and I learned a lot about myself and I am grateful for that.
+
+#I am having the best weeks of my life and its going to keep getting better and better.
