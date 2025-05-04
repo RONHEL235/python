@@ -2444,4 +2444,6 @@ This tracks a number that can be increased or reset based on user actions.
 
 #It's on me right now, all that I desire I have it right now.
 
-#I am handling this block amazingly well, thanks to me. 
+#I am handling this block amazingly well, thanks to me.
+
+#I choose to be delusional, I choose to be abundant, right now.  
