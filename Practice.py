@@ -2442,4 +2442,6 @@ This tracks a number that can be increased or reset based on user actions.
 
 #I am having the best weeks of my life and its going to keep getting better and better.
 
-#It's on me right now, all that I desire I have it right now. 
+#It's on me right now, all that I desire I have it right now.
+
+#I am handling this block amazingly well, thanks to me. 
