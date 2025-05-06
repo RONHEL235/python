@@ -2464,8 +2464,8 @@ This tracks a number that can be increased or reset based on user actions.
 
 #My solution
 word = "Ronee"
-print(word[0::2])
-
+for letter in word[::2]:
+    print(letter)
 
 #The given solution
 
