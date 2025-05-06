@@ -2476,3 +2476,5 @@ print('Origional String: ', word)
 new_list = list(word)
 for letter in new_list[::2]:
     print(letter)"""
+
+#Glad to be back, glad to be carrying all this weight on my shoulder, its such a privilege. 
