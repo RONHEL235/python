@@ -2463,7 +2463,7 @@ This tracks a number that can be increased or reset based on user actions.
 #For example, str = "PYnative". so your code should display ‘P’, ‘n’, ‘t’, ‘v’.
 
 #My solution
-word = "Ronee"
+"""word = "Ronee"
 for letter in word[::2]:
     print(letter)
 
@@ -2475,4 +2475,4 @@ print('Origional String: ', word)
 #To use list slicing convert to string to list
 new_list = list(word)
 for letter in new_list[::2]:
-    print(letter)
+    print(letter)"""
