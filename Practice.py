@@ -2446,4 +2446,10 @@ This tracks a number that can be increased or reset based on user actions.
 
 #I am handling this block amazingly well, thanks to me.
 
-#I choose to be delusional, I choose to be abundant, right now.  
+#I choose to be delusional, I choose to be abundant, right now.
+
+
+#Tuesday [19:55]
+#06 May 2025
+
+#I have been taking a lot of deep breaths as of late. They have become less of a what you can do and more of a necessity. Yes it is happening, and I am just breathing through it all. What I know for sure is that all of what is happening right now is all in my favour. Its all for my benefit. I proud for keeping a level head. for keeping a cool head. There is plenty of food, water and electricity, health, wealth and love in this home. There is plenty of inspiration. There is plenty of wisdom, intellect and knowledge. There is so much to mention friend but for now tha is all I can be aware of. I believe that there is so much that is happening behind the scenes happening all for our benefit. I could go on but I need to commit.   
