@@ -2539,3 +2539,5 @@ square_root_bisection(N)"""
 #I am going o sleep now 
 
 #More writes to come 
+
+#I will do even better tomorrow I swear.
