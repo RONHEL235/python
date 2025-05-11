@@ -2558,3 +2558,5 @@ square_root_bisection(N)"""
 #It is all working out in my favour. I promise. All this is for something big in my life. Something that will benefit me and my family physically, mentally, spiritually, financially, energetically. I am opening up for the universe to work through me. I am doing great.  
 
 #I am calm cool and collected. I work hard. I take action every day. Therefore, the universe has my back. 
+
+#As much as I am a top academic achiever, I am a top living achiever as well.   
