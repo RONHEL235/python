@@ -2553,4 +2553,6 @@ square_root_bisection(N)"""
 
 #SAULT - special music group 
 
-#What am I going to wear tomorrow? 
+#What am I going to wear tomorrow?
+
+#It is all working out in my favour. I promise. All this is for something big in my life. Something that will benefit me and my family physically, mentally, spiritually, financially, energetically. I am opening up for the universe to work through me. I am doing great.  
