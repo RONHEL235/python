@@ -2559,4 +2559,6 @@ square_root_bisection(N)"""
 
 #I am calm cool and collected. I work hard. I take action every day. Therefore, the universe has my back. 
 
-#As much as I am a top academic achiever, I am a top living achiever as well.   
+#As much as I am a top academic achiever, I am a top living achiever as well.
+
+#I am taking it slow and clarifying my vision. I am taking it slow. I am aligning my chakras. I am on the Universes/Gods time.    
