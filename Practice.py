@@ -2561,4 +2561,26 @@ square_root_bisection(N)"""
 
 #As much as I am a top academic achiever, I am a top living achiever as well.
 
-#I am taking it slow and clarifying my vision. I am taking it slow. I am aligning my chakras. I am on the Universes/Gods time.    
+#I am taking it slow and clarifying my vision. I am taking it slow. I am aligning my chakras. I am on the Universes/Gods time.
+
+#Monday [19:58]
+#12 May 2025
+
+#Class Basics:
+#Create a Car class with attributes like make, model, and year.
+#Implement methods to display information about the car and update its year.
+
+class Car: 
+    def __init__(self, make, model, year):
+        self.make = make
+        self.model = model
+        self.year = year
+
+    def carInformation(self):
+        print(f'The make of the car is{self.make} and model is {self.model}')
+
+    def update_year(self, new_year):
+    #Go to that year that previously had year and change it to new_year. 
+        self.year = new_year
+
+
