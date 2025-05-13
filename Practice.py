@@ -2583,4 +2583,7 @@ class Car:
     #Go to that year that previously had year and change it to new_year. 
         self.year = new_year
 
+#Tuesday [22:49]
+#13 May 2025
 
+#I am having the greatest week in the universe. I love you.
