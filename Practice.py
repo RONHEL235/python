@@ -2603,3 +2603,5 @@ class Car:
 #Majestic. Talented. Smart. Attractive. Excellent. Authentic. Can tell the future. Can feel the future. Amazing. Great. Work Hard. Excellent Work Ethic. 
 
 #This is the greatest year of my life. Successful Year indeed. 
+
+#I am energized because I can see my life. I can see my future. Right now.
