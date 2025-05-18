@@ -2599,3 +2599,5 @@ class Car:
 #What a productive day.
 
 #Its really does suit me.
+
+#Majestic. Talented. Smart. Attractive. Excellent. Authentic. Can tell the future. Can feel the future. Amazing. Great. Work Hard. Excellent Work Ethic. 
