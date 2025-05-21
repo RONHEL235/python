@@ -2623,3 +2623,7 @@ importing os
 #Directory Compression 
 
 from zipfile import ZipFile
+
+#XML
+
+<custom tag>I am mastering Python coding</custom tag>
