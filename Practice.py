@@ -2605,3 +2605,13 @@ class Car:
 #This is the greatest year of my life. Successful Year indeed. 
 
 #I am energized because I can see my life. I can see my future. Right now.
+
+
+#Wednesday [11:14]
+#21 May 2025
+
+#Handling Files  
+
+#Equivalent to 'r' or 'rt'
+fh = open("Ronee.txt")
+fh.close
