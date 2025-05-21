@@ -2631,3 +2631,5 @@ fh.close()"""
 #The day is so amazing right now, I can never be a poser in my own world, never!!! 
 
 #I keep improving on a daily, I just need to think positively about my portfolio and stop spiralling about what I might be doing wrong. What am I doing right. 
+
+#I just want a place for myself where i can relax and listen to myself. A place I can come back home to. I will explain more in the future. 
