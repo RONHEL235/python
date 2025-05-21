@@ -2613,17 +2613,19 @@ square_root_bisection(N)"""
 #Handling Files  
 
 #Equivalent to 'r' or 'rt'
-fh = open("Ronee.txt")
-fh.close()
+"""fh = open("Ronee.txt")
+fh.close()"""
 
 #Going though the directory 
 
-importing os
+"""importing os"""
 
 #Directory Compression 
 
-from zipfile import ZipFile
+"""from zipfile import ZipFile"""
 
 #XML
 
-<custom tag>I am mastering Python coding</custom tag>
+"""<custom tag>I am mastering Python coding</custom tag>"""
+
+#The day is so amazing right now, I can never be a poser in my own world, never!!! 
