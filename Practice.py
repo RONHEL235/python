@@ -2570,7 +2570,7 @@ square_root_bisection(N)"""
 #Create a Car class with attributes like make, model, and year.
 #Implement methods to display information about the car and update its year.
 
-class Car: 
+"""class Car: 
     def __init__(self, make, model, year):
         self.make = make
         self.model = model
@@ -2582,7 +2582,7 @@ class Car:
     def update_year(self, new_year):
     #Go to that year that previously had year and change it to new_year. 
         self.year = new_year
-
+"""
 #Tuesday [22:49]
 #13 May 2025
 
@@ -2614,4 +2614,8 @@ class Car:
 
 #Equivalent to 'r' or 'rt'
 fh = open("Ronee.txt")
-fh.close
+fh.close()
+
+#Going though the directory 
+
+importing os
