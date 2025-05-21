@@ -2619,3 +2619,7 @@ fh.close()
 #Going though the directory 
 
 importing os
+
+#Directory Compression 
+
+from zipfile import ZipFile
