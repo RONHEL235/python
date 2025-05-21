@@ -2629,3 +2629,5 @@ fh.close()"""
 """<custom tag>I am mastering Python coding</custom tag>"""
 
 #The day is so amazing right now, I can never be a poser in my own world, never!!! 
+
+#I keep improving on a daily, I just need to think positively about my portfolio and stop spiralling about what I might be doing wrong. What am I doing right. 
